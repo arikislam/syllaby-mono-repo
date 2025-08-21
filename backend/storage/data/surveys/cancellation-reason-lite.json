@@ -1,0 +1,38 @@
+{
+    "survey": {
+        "name": "Cancellation Reasoning Form Lite",
+        "is_active": true
+    },
+    "questions": [
+        {
+            "title": "Before you leave, please tell us why",
+            "type": "select",
+            "placeholder": "Select an option",
+            "rules": [
+                "nullable"
+            ],
+            "options": [
+                "Too expensive for my budget",
+                "Not using it enough",
+                "Missing features I need",
+                "Found a better alternative",
+                "Too difficult to use",
+                "Content quality issues",
+                "Technical issues or bugs",
+                "My project has ended",
+                "Taking a break",
+                "Other reason"
+            ],
+            "metadata": {}
+        },
+        {
+            "title": "Please tell us more",
+            "type": "text",
+            "placeholder": "Your feedback helps us improve...",
+            "rules": [
+                "nullable"
+            ],
+            "options": null
+        }
+    ]
+}

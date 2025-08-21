@@ -1,0 +1,1256 @@
+[
+    {
+        "name": "Point of View",
+        "slug": "point-of-view",
+        "details": {
+            "quality": "8k, hyper-realistic",
+            "style": "immersive first-person perspective",
+            "type": "Point of View (POV), eye-level view, two hands or two legs visible",
+            "mood": "immersive, natural, tactile",
+            "lighting": "natural positioning, depth-focused lighting"
+        },
+        "active": true,
+        "prompt": null,
+        "consistent_character": false,
+        "meta": {
+            "model": "bytedance/hyper-flux-16step:382cf8959fb0f0d665b26e7e80b8d6dc3faaef1510f14ce017e8c732bb3d1eb7",
+            "input": {
+                "prompt": "[PROMPT]. Style: Immersive first-person perspective, limbs in the foreground, natural positioning, eye-level view, realistic textures, touched, depth-focused environment, balanced mix of hand and leg visibility.",
+                "width": 720,
+                "height": 1280,
+                "num_outputs": 1,
+                "aspect_ratio": "custom",
+                "output_format": "jpg",
+                "guidance_scale": 3.5,
+                "output_quality": 80,
+                "num_inference_steps": 20
+            }
+        }
+    },
+    {
+        "name": "Selfie",
+        "slug": "selfie",
+        "details": {
+            "quality": "realistic, high-detail, photo-like clarity",
+            "style": "modern selfie, natural appearance",
+            "type": "first-person close-up with visible arm or hand",
+            "mood": "casual, expressive, candid",
+            "lighting": "soft daylight, ambient natural light"
+        },
+        "active": true,
+        "prompt": "Generate a realistic, close-up selfie from a first-person perspective. Show the person with one arm partially visible. Focus on the face with clear, natural expressions and eye contact. Lighting should be realistic and flattering, matching the subject's environment. Ensure the background appears immersive and coherent with a casual, everyday setting like a park, street, room, or café. Keep the clothing authentic to what the person would realistically wear. High detail on facial features, textures, and natural shadows. Maintain realism and clarity",
+        "consistent_character": true,
+        "meta": {
+            "model": "bytedance/hyper-flux-16step:382cf8959fb0f0d665b26e7e80b8d6dc3faaef1510f14ce017e8c732bb3d1eb7",
+            "input": {
+                "prompt": "[PROMPT], taking Realistic selfie, close-up first-person view, natural facial expression, hand or arm holding camera visible, authentic attire, immersive background, natural lighting, clear focus on face, high detail.",
+                "width": 720,
+                "height": 1280,
+                "num_outputs": 1,
+                "aspect_ratio": "custom",
+                "output_format": "jpg",
+                "guidance_scale": 3.5,
+                "output_quality": 80,
+                "num_inference_steps": 20
+            }
+        }
+    },
+    {
+        "name": "Miyazaki Inspired",
+        "slug": "miyazaki-inspired",
+        "details": [],
+        "active": true,
+        "prompt": null,
+        "consistent_character": false,
+        "meta": {
+            "model": "colinmcdonnell22/ghiblify-3:407b7fd425e00eedefe7db3041662a36a126f1e4988e6fbadfc49b157159f015",
+            "input": {
+                "prompt": "[PROMPT], in ghibli style.",
+                "width": 720,
+                "height": 1280,
+                "num_outputs": 1,
+                "aspect_ratio": "custom",
+                "output_format": "jpg",
+                "guidance_scale": 3.5,
+                "output_quality": 80,
+                "num_inference_steps": 16
+            }
+        }
+    },
+    {
+        "name": "African Legends",
+        "slug": "african-legends",
+        "details": [],
+        "active": true,
+        "prompt": null,
+        "consistent_character": false,
+        "meta": {
+            "model": "bytedance/hyper-flux-16step:382cf8959fb0f0d665b26e7e80b8d6dc3faaef1510f14ce017e8c732bb3d1eb7",
+            "input": {
+                "prompt": "[PROMPT]. Style: African American characters, cinematic, hyperrealistic, expressive features, diverse themes, natural lighting, rich textures",
+                "width": 720,
+                "height": 1280,
+                "num_outputs": 1,
+                "aspect_ratio": "custom",
+                "output_format": "jpg",
+                "guidance_scale": 3.5,
+                "output_quality": 80,
+                "num_inference_steps": 20
+            }
+        }
+    },
+    {
+        "name": "Action Movie",
+        "slug": "action-movie",
+        "details": {
+            "quality": "8k, Hyper-realistic, intense",
+            "style": "action movie",
+            "type": "dynamic poster",
+            "mood": "intense, fast-paced, thrilling",
+            "lighting": "dramatic, high-contrast, neon glows"
+        },
+        "active": true,
+        "prompt": "Front-facing, Standing in a dynamic action pose. Style: Action movie, cinematic realism, high-energy. Lighting: Intense spotlights, dramatic contrast, neon reflections. Effects: Motion blur, debris, dynamic camera angle. Framing: Close-up portrait.",
+        "consistent_character": true,
+        "meta": {
+            "model": "bytedance/hyper-flux-16step:382cf8959fb0f0d665b26e7e80b8d6dc3faaef1510f14ce017e8c732bb3d1eb7",
+            "input": {
+                "prompt": "[PROMPT]. Style: Action movie, high-energy, fast-paced, dynamic composition, dramatic lighting, intense action, close-ups, dramatic angles. Lighting: Dramatic, high-contrast, deep shadows, spotlights, neon glows. Additional: 4K resolution, sharp focus.",
+                "width": 720,
+                "height": 1280,
+                "num_outputs": 1,
+                "aspect_ratio": "custom",
+                "output_format": "jpg",
+                "guidance_scale": 3.5,
+                "output_quality": 80,
+                "num_inference_steps": 20
+            }
+        }
+    },
+    {
+        "name": "Ancient Fairytale",
+        "slug": "ancient-fairytale",
+        "details": {
+            "quality": "photorealistic, surreal, organic-crystal texture",
+            "style": "ancient fantasy realism",
+            "type": "mythical environment with magical elements",
+            "mood": "enchanted, mysterious, ethereal",
+            "lighting": "bioluminescent glow, soft ambient mist, shifting tones"
+        },
+        "active": true,
+        "prompt": "Front-facing, Standing calmly in glowing forest. Style: Surrealist photorealism, blending organic and crystal structures, fantasy elements. Lighting: Ethereal glow, bioluminescence, mysterious ambient light, shifting colors. Effects: Fluid mist, detailed cloth physics, magical particles, tilt-shift for depth. Framing: Close-up portrait.",
+        "consistent_character": true,
+        "meta": {
+            "model": "bytedance/hyper-flux-16step:382cf8959fb0f0d665b26e7e80b8d6dc3faaef1510f14ce017e8c732bb3d1eb7",
+            "input": {
+                "prompt": "[PROMPT]. Style: Surrealist photorealism, blending organic and crystal structures, fantasy elements. Lighting: Ethereal glow, bioluminescence, mysterious ambient light, shifting colors. Effects: Fluid mist, detailed cloth physics, magical particles, tilt-shift for depth.",
+                "width": 720,
+                "height": 1280,
+                "num_outputs": 1,
+                "aspect_ratio": "custom",
+                "output_format": "jpg",
+                "guidance_scale": 3.5,
+                "output_quality": 80,
+                "num_inference_steps": 20
+            }
+        }
+    },
+    {
+        "name": "Animated Cartoon",
+        "slug": "animated-cartoon",
+        "details": {
+            "quality": "classic",
+            "style": " 2D retro animation, hand-drawn, aesthetic",
+            "type": "cartoon illustration, bold outlines",
+            "mood": "whimsical, exaggerated expressions, playful",
+            "lighting": "flat shading, cel animation look, strong contrast"
+        },
+        "active": true,
+        "prompt": "Front-facing, Smiling wide, arms spread in excitement. Style: Animated cartoon, bold outlines. Lighting: Flat, bright highlights. Clothing: Simple overalls, bright shoes. Environment: Cartoon town square. Framing: Close-up portrait.",
+        "consistent_character": true,
+        "meta": {
+            "model": "bytedance/hyper-flux-16step:382cf8959fb0f0d665b26e7e80b8d6dc3faaef1510f14ce017e8c732bb3d1eb7",
+            "input": {
+                "prompt": "[PROMPT]. Style: Classic 2D retro animation, hand-drawn aesthetic, bold outlines, exaggerated expressions. Lighting: Flat shading, cel animation look, strong contrast. Effects: Limited motion, vintage color palette, whimsical atmosphere.",
+                "width": 720,
+                "height": 1280,
+                "num_outputs": 1,
+                "aspect_ratio": "custom",
+                "output_format": "jpg",
+                "guidance_scale": 3.5,
+                "output_quality": 80,
+                "num_inference_steps": 20
+            }
+        }
+    },
+    {
+        "name": "Animated Fantasy",
+        "slug": "animated-fantasy",
+        "details": {
+            "quality": "hand-drawn, bold colors, painterly finish",
+            "style": "2D animated fantasy, whimsical and charming",
+            "type": "magical setting with fantasy elements",
+            "mood": "dreamy, adventurous, lighthearted",
+            "lighting": "soft sunlight, dreamy highlights, gentle ambient shadows"
+        },
+        "active": true,
+        "prompt": "Front view, Standing with heroic pose, joyful expression. Style: Hand-drawn 2D animation, bold outlines, flat shading, cartoon colors. Lighting: Simple cel shading. Effects: Cartoon sparkles, energy lines. Clothing: Wizard robe. Framing: Close-up portrait.",
+        "consistent_character": true,
+        "meta": {
+            "model": "bytedance/hyper-flux-16step:382cf8959fb0f0d665b26e7e80b8d6dc3faaef1510f14ce017e8c732bb3d1eb7",
+            "input": {
+                "prompt": "[PROMPT]. Style: Hand-drawn 2D animation, bold colors, whimsical fantasy elements. Lighting: Soft, diffused sunlight, dreamy highlights, gentle shadows. Effects: Flowing breeze, glowing particles, shimmering water, animated magic.",
+                "width": 720,
+                "height": 1280,
+                "num_outputs": 1,
+                "aspect_ratio": "custom",
+                "output_format": "jpg",
+                "guidance_scale": 3.5,
+                "output_quality": 80,
+                "num_inference_steps": 20
+            }
+        }
+    },
+    {
+        "name": "Art Deco",
+        "slug": "art-deco",
+        "details": [],
+        "active": true,
+        "prompt": null,
+        "consistent_character": false,
+        "meta": {
+            "model": "bytedance/hyper-flux-16step:382cf8959fb0f0d665b26e7e80b8d6dc3faaef1510f14ce017e8c732bb3d1eb7",
+            "input": {
+                "prompt": "[PROMPT]. Style: Hand-drawn, flowing brush strokes, sleek Art Deco lines, intricate motifs. Lighting: Soft, golden ambient glow, nostalgic and romantic atmosphere. Effects: Polished reflections, vintage chandelier glow, silver and gold accents.",
+                "width": 720,
+                "height": 1280,
+                "num_outputs": 1,
+                "aspect_ratio": "custom",
+                "output_format": "jpg",
+                "guidance_scale": 3.5,
+                "output_quality": 80,
+                "num_inference_steps": 20
+            }
+        }
+    },
+    {
+        "name": "Old Camera",
+        "slug": "old-camera",
+        "details": {
+            "quality": "aged, sepia-toned, analog film grain",
+            "style": "vintage photography",
+            "type": "retro portrait, archival photograph",
+            "mood": "nostalgic, intimate, timeless",
+            "lighting": "natural or early artificial light, soft glow, deep shadows"
+        },
+        "active": true,
+        "prompt": "Front-facing, Standing with relaxed posture, hands in pockets. Style: Vintage photography, black and white or sepia, soft focus. Lighting: Natural or early artificial, strong contrasts, deep shadows. Effects: Film grain, vignetting, light leaks, subtle scratches. Framing: Close-up portrait.",
+        "consistent_character": true,
+        "meta": {
+            "model": "bytedance/hyper-flux-16step:382cf8959fb0f0d665b26e7e80b8d6dc3faaef1510f14ce017e8c732bb3d1eb7",
+            "input": {
+                "prompt": "[PROMPT]. Style: Vintage photography, black and white or sepia, soft focus. Lighting: Natural or early artificial, strong contrasts, deep shadows. Effects: Film grain, vignetting, light leaks, subtle scratches.",
+                "width": 720,
+                "height": 1280,
+                "num_outputs": 1,
+                "aspect_ratio": "custom",
+                "output_format": "jpg",
+                "guidance_scale": 3.5,
+                "output_quality": 80,
+                "num_inference_steps": 20
+            }
+        }
+    },
+    {
+        "name": "Black And White",
+        "slug": "black-and-white",
+        "details": {
+            "quality": "ultra-detailed, rich grayscale textures, photorealistic",
+            "style": "black and white only, deep contrast, no color",
+            "type": "monochrome scene with tonal precision",
+            "mood": "classic, dramatic, timeless",
+            "lighting": "high contrast, soft light, strong chiaroscuro, grayscale depth"
+        },
+        "active": true,
+        "prompt": "Front view, standing still with arms crossed. Style: Monochrome high-contrast black and white portrait. Lighting: Even soft light on the face, bright exposure, gentle shadows to define features, no harsh darkness. Effects: Fine film grain. Clothing: Classic trench coat. Framing: Close-up portrait.",
+        "consistent_character": true,
+        "meta": {
+            "model": "bytedance/hyper-flux-16step:382cf8959fb0f0d665b26e7e80b8d6dc3faaef1510f14ce017e8c732bb3d1eb7",
+            "input": {
+                "prompt": "[PROMPT]. Style: Black and white, ultra-detailed, deep contrasts, rich textures. Lighting: Soft, natural volumetric, striking chiaroscuro effects. Effects: Intricate details, timeless artistry, photorealistic composition.",
+                "width": 720,
+                "height": 1280,
+                "num_outputs": 1,
+                "aspect_ratio": "custom",
+                "output_format": "jpg",
+                "guidance_scale": 3.5,
+                "output_quality": 80,
+                "num_inference_steps": 20
+            }
+        }
+    },
+    {
+        "name": "Cinematic Realism",
+        "slug": "cinematic-realism",
+        "details": {
+            "quality": "8k, ultra-realistic",
+            "style": "cinematic photorealistic",
+            "type": "octane render, artistic photography",
+            "mood": "award-winning, masterpiece",
+            "lighting": "soft, natural, volumetric, perfect composition light"
+        },
+        "active": true,
+        "prompt": "Front-facing, Standing confidently, arms crossed. Style: Photorealistic cinematic scene. Lighting: Golden hour backlight, lens flares. Effects: Subtle particles, shallow depth of field. Clothing: Modern casual clothing. Framing: Close-up portrait.",
+        "consistent_character": true,
+        "meta": {
+            "model": "playgroundai/playground-v2.5-1024px-aesthetic:a45f82a1382bed5c7aeb861dac7c7d191b0fdf74d8d57c4a0e6ed7d4d0bf7d24",
+            "input": {
+                "prompt": "[PROMPT], perfect composition, beautiful detailed intricate insanely detailed octane render trending on artstation, 8 k artistic photography, photorealistic concept art, soft natural volumetric cinematic perfect light, chiaroscuro, award - winning photograph, masterpiece, oil on canvas, raphael, caravaggio, greg rutkowski, beeple, beksinski, giger",
+                "num_inference_steps": 35,
+                "scheduler": "DPMSolver++",
+                "width": 720,
+                "height": 1280,
+                "prompt_strength": 0.86,
+                "guidance_scale": 3,
+                "output_format": "jpg",
+                "aspect_ratio": "custom",
+                "num_outputs": 1,
+                "negative_prompt": "painting, drawing, illustration, ugly, deformed, noisy, blurry, distorted, out of focus, out of frame, 2 faces, eyes disfigured, stretched out, cropped images, deformed hands, malformed heads, malformed eyes, disfigured, extra fingers, mutated hands, mutated face, mutated eyes, grainy, low-res, poorly drawn face, morbid, gross proportions, bad anatomy, extra limbs, poorly drawn hands, poorly drawn eyes, poorly drawn legs, missing fingers, nudity, nude, NSFW, no watermark"
+            }
+        }
+    },
+    {
+        "name": "Comic Book",
+        "slug": "comic-book",
+        "details": {
+            "quality": "vivid",
+            "style": "comic book",
+            "type": "classic comic illustration",
+            "mood": "dynamic, expressive",
+            "lighting": "bold contrasts, deep shadows"
+        },
+        "active": true,
+        "prompt": "Front-facing, Heroic stance, fists on hips. Style: Comic book, bold lines, vibrant colors. Lighting: Spotlight highlights expression. Environment: Explosive comic backdrop. Framing: Close-up portrait.",
+        "consistent_character": true,
+        "meta": {
+            "model": "bytedance/hyper-flux-16step:382cf8959fb0f0d665b26e7e80b8d6dc3faaef1510f14ce017e8c732bb3d1eb7",
+            "input": {
+                "prompt": "[PROMPT]. Style: Comic book, thick outlines, halftone shading, vivid colors, original world. Lighting: Bold contrasts, deep shadows, expressive comic book inking. Effects: Action panels, speed lines, comic halftone dots, original costume design.",
+                "width": 720,
+                "height": 1280,
+                "num_outputs": 1,
+                "aspect_ratio": "custom",
+                "output_format": "jpg",
+                "guidance_scale": 3.5,
+                "output_quality": 80,
+                "num_inference_steps": 20
+            }
+        }
+    },
+    {
+        "name": "Retro Illustration",
+        "slug": "retro-illustration",
+        "details": {
+            "quality": "clean lines, vintage print texture, flat finish",
+            "style": "1950s retro flat illustration, nostalgic and graphic",
+            "type": "mid-century scene with single-point perspective",
+            "mood": "inviting, wholesome, optimistic",
+            "lighting": "warm sunlight, soft canopy shadows, pastel glow"
+        },
+        "active": true,
+        "prompt": "Front view, sitting in a classic diner booth, hands folded on the table. Style: Retro mid-century illustration, 1950s magazine ad style, flat colors, bold outlines, simplified shading, no photorealism. Lighting: Even soft light, warm nostalgic color palette. Effects: Subtle halftone texture. Clothing: Casual vintage attire (1950s). Framing: Close-up portrait.",
+        "consistent_character": true,
+        "meta": {
+            "model": "bytedance/hyper-flux-16step:382cf8959fb0f0d665b26e7e80b8d6dc3faaef1510f14ce017e8c732bb3d1eb7",
+            "input": {
+                "prompt": "A 1950's style flat illustration of [PROMPT].Style: 1950s retro flat illustration, nostalgic tone, single-point perspective, classic line art. Lighting: Warm sun, soft canopy shadows, inviting feel. Effects: Pastel palette, grainy textures, soft vintage shading.",
+                "width": 720,
+                "height": 1280,
+                "num_outputs": 1,
+                "aspect_ratio": "custom",
+                "output_format": "jpg",
+                "guidance_scale": 3.5,
+                "output_quality": 80,
+                "num_inference_steps": 20
+            }
+        }
+    },
+    {
+        "name": "Crime Movie",
+        "slug": "crime-movie",
+        "details": {
+            "quality": "gritty, monochrome, film grain texture",
+            "style": "black and white neo-noir",
+            "type": "dramatic crime scene, stylized realism",
+            "mood": "tense, moody, suspenseful",
+            "lighting": "harsh shadows, soft ambient glow, high-contrast noir lighting"
+        },
+        "active": true,
+        "prompt": "Front view,Standing in a city alley, clear soft lighting. Style: Monochrome noir style. Clothing:  = nullTrench coat, shirt. Framing: Close-up portrait.",
+        "consistent_character": true,
+        "meta": {
+            "model": "bytedance/hyper-flux-16step:382cf8959fb0f0d665b26e7e80b8d6dc3faaef1510f14ce017e8c732bb3d1eb7",
+            "input": {
+                "prompt": "[PROMPT]. Style: Neo-noir, monochrome tone, gritty realism, classic noir influence. Lighting: Soft ambient glow, harsh directional shadows, moody depth. Effects: Tension-filled atmosphere, cinematic texture.",
+                "width": 720,
+                "height": 1280,
+                "num_outputs": 1,
+                "aspect_ratio": "custom",
+                "output_format": "jpg",
+                "guidance_scale": 3.5,
+                "output_quality": 80,
+                "num_inference_steps": 20
+            }
+        }
+    },
+    {
+        "name": "Cyberpunk",
+        "slug": "cyberpunk",
+        "details": [],
+        "active": true,
+        "prompt": "Front view, Standing on neon rooftop, arms at sides. Style: Photorealistic cyberpunk. Lighting: Pink-blue neon. Effects: Holograms, glitch. Clothing: Futuristic armor. Framing: Close-up portrait.",
+        "consistent_character": true,
+        "meta": {
+            "model": "bytedance/hyper-flux-16step:382cf8959fb0f0d665b26e7e80b8d6dc3faaef1510f14ce017e8c732bb3d1eb7",
+            "input": {
+                "prompt": "[PROMPT]. Style: Cyberpunk, neo-noir, photorealistic, cinematic, hyper-detailed. Lighting: Neon glows, pink-blue contrast, wet surfaces, moody shadows. Effects: Fog, rain, lens flare, holograms, glitch textures.",
+                "width": 720,
+                "height": 1280,
+                "num_outputs": 1,
+                "aspect_ratio": "custom",
+                "output_format": "jpg",
+                "guidance_scale": 3.5,
+                "output_quality": 80,
+                "num_inference_steps": 20
+            }
+        }
+    },
+    {
+        "name": "Dark Fantasy",
+        "slug": "dark-fantasy",
+        "details": {
+            "quality": "high detail, gritty, cinematic",
+            "style": "dark fantasy gothic",
+            "type": "mythical world, atmospheric realism",
+            "mood": "ominous, mystical, haunting",
+            "lighting": "moonlit shadows, torchlight glow, foggy ambiance, glowing embers"
+        },
+        "active": true,
+        "prompt": "Front-facing, Standing solemnly, hands folded. Style: Gritty gothic realism. Lighting: Moonlit shadows, glowing embers. Effects: Ash particles, decayed textures. Clothing: Tattered cloak, dark robes. Framing: Close-up portrait.",
+        "consistent_character": true,
+        "meta": {
+            "model": "bytedance/hyper-flux-16step:382cf8959fb0f0d665b26e7e80b8d6dc3faaef1510f14ce017e8c732bb3d1eb7",
+            "input": {
+                "prompt": "[PROMPT]. Style: Dark fantasy, gritty realism, gothic aesthetic, high detail, cinematic tone. Lighting: Moonlit shadows, glowing embers, moody fog, torchlight glow. Effects: Ash particles, decayed textures, runes, mystical energy, atmospheric depth.",
+                "width": 720,
+                "height": 1280,
+                "num_outputs": 1,
+                "aspect_ratio": "custom",
+                "output_format": "jpg",
+                "guidance_scale": 3.5,
+                "output_quality": 80,
+                "num_inference_steps": 20
+            }
+        }
+    },
+    {
+        "name": "Digital Anime",
+        "slug": "digital-anime",
+        "details": {
+            "quality": "best quality, recent, aesthetic, ultra-clean, high-resolution",
+            "style": "digital anime illustration",
+            "type": "expressive character or scene with stylized composition",
+            "mood": "cinematic, emotive, polished",
+            "lighting": "anime glow, soft rim light, ambient depth"
+        },
+        "active": true,
+        "prompt": "Front-facing, Digital anime style, vibrant colors, clean line art, expressive character faces, dynamic poses. Soft cel shading with bright highlights. Detailed backgrounds inspired by modern Japanese settings. Emphasize large, emotive eyes and flowing hair. Energetic, cinematic composition with subtle glow effects. Framing: Close-up portrait.",
+        "consistent_character": true,
+        "meta": {
+            "model": "cjwbw/animagine-xl-3.1:6afe2e6b27dad2d6f480b59195c221884b6acc589ff4d05ff0e5fc058690fbb9",
+            "input": {
+                "prompt": "best quality, recent, aesthetic, [PROMPT]",
+                "num_inference_steps": 28,
+                "width": 720,
+                "height": 1280,
+                "num_outputs": 1,
+                "guidance_scale": 7,
+                "style_selector": "Anime",
+                "quality_selector": "Standard v3.1",
+                "negative_prompt": "nsfw, lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract], no nsfw, no nudity."
+            }
+        }
+    },
+    {
+        "name": "Digital Art",
+        "slug": "digital-art",
+        "details": {
+            "quality": "hand-painted texture, visible brush marks, impasto detail",
+            "style": "traditional oil painting on canvas",
+            "type": "realistic subject with expressive surface work",
+            "mood": "authentic, emotional, tactile",
+            "lighting": "natural studio light, shadowed texture, pigment-based contrast"
+        },
+        "active": true,
+        "prompt": "Front view, Painting dissolving into swirls of color Style: Hand drawn art, Artist, expressionist, heavily textured brushstrokes, non-realistic color palette Additional Effects: Paint splatters, smudges, drips, impasto technique Framing: Close-up portrait.",
+        "consistent_character": true,
+        "meta": {
+            "model": "bytedance/hyper-flux-16step:382cf8959fb0f0d665b26e7e80b8d6dc3faaef1510f14ce017e8c732bb3d1eb7",
+            "input": {
+                "prompt": "Painting of [PROMPT]. Style: Hand drawn art, Artist, expressionist, heavily textured brushstrokes, non-realistic color palette. Additional Effects: Paint splatters, smudges, drips, impasto technique",
+                "width": 720,
+                "height": 1280,
+                "num_outputs": 1,
+                "aspect_ratio": "custom",
+                "output_format": "jpg",
+                "guidance_scale": 3.5,
+                "output_quality": 80,
+                "num_inference_steps": 20
+            }
+        }
+    },
+    {
+        "name": "Realistic Cartoon",
+        "slug": "realistic-cartoon",
+        "details": {
+            "quality": "realistic 3D cartoon",
+            "style": "disney style, soft, expressive features",
+            "type": "3D cartoon",
+            "mood": "dreamy, magical",
+            "lighting": "warm twilight glow, gentle highlights"
+        },
+        "active": true,
+        "prompt": "Front view, Smiling gently, arms crossed. Style: Pixar-Dreamworks hybrid character. Lighting: Soft dreamy light. Clothing: Explorer vest, shorts. Environment: Animated forest with talking creatures. Framing: Close-up portrait.",
+        "consistent_character": true,
+        "meta": {
+            "model": "bytedance/hyper-flux-16step:382cf8959fb0f0d665b26e7e80b8d6dc3faaef1510f14ce017e8c732bb3d1eb7",
+            "input": {
+                "prompt": "[PROMPT]. Style: Realistic 3D cartoon style with soft, expressive features and dreamy magical elements. Lighting: Warm twilight glow, gentle highlights, soft ambient backlighting. Effects: Glimmering sparkles, rising steam, glowing edges, smooth surfaces, subtle whimsy.",
+                "width": 720,
+                "height": 1280,
+                "num_outputs": 1,
+                "aspect_ratio": "custom",
+                "output_format": "jpg",
+                "guidance_scale": 3.5,
+                "output_quality": 80,
+                "num_inference_steps": 20
+            }
+        }
+    },
+    {
+        "name": "Vaporwave",
+        "slug": "vaporwave",
+        "details": {
+            "quality": "8k, ultra-realistic",
+            "style": "vaporwave synth",
+            "type": "retro-futuristic aesthetic",
+            "mood": "surreal, dreamy, nostalgic",
+            "lighting": "bold neon glow, deep purples and electric blues, ambient mist"
+        },
+        "active": true,
+        "prompt": "Front view, Standing in neon-lit grid landscape. Style: Vaporwave retro aesthetic. Lighting: Pink and blue glows. Effects: Holograms, scanlines, lens flares. Clothing: Futuristic casual. Framing: Close-up portrait.",
+        "consistent_character": true,
+        "meta": {
+            "model": "bytedance/hyper-flux-16step:382cf8959fb0f0d665b26e7e80b8d6dc3faaef1510f14ce017e8c732bb3d1eb7",
+            "input": {
+                "prompt": "[PROMPT]. Style: Vaporwave synth aesthetic, retro-futuristic design with digital wireframes and surreal dreamscape elements. Lighting: Bold neon glow, deep purples and electric blues, ambient mist and horizon haze. Effects: Perspective grid, glowing retro sun, chromatic aberration, soft bloom, lo-fi nostalgic tone.",
+                "width": 720,
+                "height": 1280,
+                "num_outputs": 1,
+                "aspect_ratio": "custom",
+                "output_format": "jpg",
+                "guidance_scale": 3.5,
+                "output_quality": 80,
+                "num_inference_steps": 20
+            }
+        }
+    },
+    {
+        "name": "Futuristic Sci-Fi",
+        "slug": "futuristic-sci-fi",
+        "details": {
+            "quality": "hyper-realistic, cinematic, surreal detail",
+            "style": "futuristic sci-fi",
+            "type": "alien world, advanced technology landscape",
+            "mood": "epic, otherworldly, awe-inspiring",
+            "lighting": "planetshine, bioluminescent glow, volumetric rays, soft ambient hues"
+        },
+        "active": true,
+        "prompt": "Front-facing, Standing on moon surface in relaxed stance. Style: Sci-fi cinematic realism. Lighting: Soft volumetric lights, planetary glow. Effects: Holographic HUD elements. Clothing: Tech exo-suit. Framing: Close-up portrait.",
+        "consistent_character": true,
+        "meta": {
+            "model": "bytedance/hyper-flux-16step:382cf8959fb0f0d665b26e7e80b8d6dc3faaef1510f14ce017e8c732bb3d1eb7",
+            "input": {
+                "prompt": "[PROMPT]. Style: Hyper-realistic sci-fi, cinematic atmosphere, epic and alien world-building with surreal tech landscapes. Lighting: Planetshine, bioluminescent glow, volumetric rays, soft ambient hues. Effects: Holograms, lens flares, reflective surfaces, floating particles, hazy atmosphere.",
+                "width": 720,
+                "height": 1280,
+                "num_outputs": 1,
+                "aspect_ratio": "custom",
+                "output_format": "jpg",
+                "guidance_scale": 3.5,
+                "output_quality": 80,
+                "num_inference_steps": 20
+            }
+        }
+    },
+    {
+        "name": "Greek Mythology",
+        "slug": "greek-mythology",
+        "details": {
+            "quality": "high-detail, lifelike, textured realism",
+            "style": "modern greek mythology",
+            "type": "mythic scene, sculptural composition",
+            "mood": "divine, majestic, timeless",
+            "lighting": "soft diffused glow, golden hour shadows, divine highlights"
+        },
+        "active": true,
+        "prompt": null,
+        "consistent_character": true,
+        "meta": {
+            "model": "bytedance/hyper-flux-16step:382cf8959fb0f0d665b26e7e80b8d6dc3faaef1510f14ce017e8c732bb3d1eb7",
+            "input": {
+                "prompt": "[PROMPT]. Style: Modern digital realism inspired by Greek mythology, rich textures, sculptural details, mythic ambiance. Lighting: Soft diffused glow, golden hour shadows, divine highlights. Effects: Stone textures, flowing drapery, atmospheric depth, lifelike structure and color.",
+                "width": 720,
+                "height": 1280,
+                "num_outputs": 1,
+                "aspect_ratio": "custom",
+                "output_format": "jpg",
+                "guidance_scale": 3.5,
+                "output_quality": 80,
+                "num_inference_steps": 20
+            }
+        }
+    },
+    {
+        "name": "Horror Fantasy",
+        "slug": "horror-fantasy",
+        "details": {
+            "quality": "grim, grotesque, surreal detail",
+            "style": "dark fantasy horror",
+            "type": "eerie dreamscape, disturbing realism",
+            "mood": "unsettling, nightmarish, oppressive",
+            "lighting": "low light, harsh shadows, cold ambient glow, flickering torchlight, moonlit effects"
+        },
+        "active": true,
+        "prompt": "Front-facing, Standing still, staring ahead intensely. Style: Dark fantasy, eerie detail. Lighting: Moody ambient, brighter face illumination. Effects: Fog, embers, subtle glows. Clothing: Black hooded cloak. Framing: Close-up portrait.",
+        "consistent_character": true,
+        "meta": {
+            "model": "bytedance/hyper-flux-16step:382cf8959fb0f0d665b26e7e80b8d6dc3faaef1510f14ce017e8c732bb3d1eb7",
+            "input": {
+                "prompt": "[PROMPT]. Style: Dark fantasy horror, grim and surreal, unsettling yet artistic with eerie atmospheres and grotesque detail. Lighting: Low light with harsh shadows, cold ambient glows, flickering torchlight or moonlit effects. Effects: Fog, grime, dripping textures, atmospheric distortion, disturbing visual storytelling.",
+                "width": 720,
+                "height": 1280,
+                "num_outputs": 1,
+                "aspect_ratio": "custom",
+                "output_format": "jpg",
+                "guidance_scale": 3.5,
+                "output_quality": 80,
+                "num_inference_steps": 20
+            }
+        }
+    },
+    {
+        "name": "Hyper Realism",
+        "slug": "hyper-realism",
+        "details": {
+            "quality": "Ultra-Realistic, 8k",
+            "style": "Photo",
+            "type": "photorealistic",
+            "mood": "high-end commercial quality",
+            "lighting": "professional lighting, high-end clarity"
+        },
+        "active": true,
+        "prompt": "Front-facing, Standing calmly, hands relaxed at sides. Photojournalistic style, professional lighting, ultra-realistic details, high-end commercial quality, 4K clarity. Framing: Close-up portrait.",
+        "consistent_character": true,
+        "meta": {
+            "model": "bytedance/hyper-flux-16step:382cf8959fb0f0d665b26e7e80b8d6dc3faaef1510f14ce017e8c732bb3d1eb7",
+            "input": {
+                "prompt": "[PROMPT]. Photojournalistic style, professional lighting, ultra-realistic details, high-end commercial quality, 4K clarity. Avoid: artificial, stylized, digital art, filters.",
+                "width": 720,
+                "height": 1280,
+                "num_outputs": 1,
+                "aspect_ratio": "custom",
+                "output_format": "jpg",
+                "guidance_scale": 3.5,
+                "output_quality": 80,
+                "num_inference_steps": 20
+            }
+        }
+    },
+    {
+        "name": "Ancient Egypt",
+        "slug": "ancient-egypt",
+        "details": {
+            "quality": "sharp, 8k, hyper-realistic",
+            "style": "ancient egypt",
+            "type": "historical representation",
+            "mood": "authentic, rich, cultural",
+            "lighting": "natural soft light, diffused sunlight, dynamic shadows"
+        },
+        "active": true,
+        "prompt": "Front-facing, Standing, arms relaxed. Style: Ancient Egyptian hyper-realistic. Lighting: Warm diffused sunlight. Effects: Dust motes, sandstone backdrop. Clothing: Wearing linen tunic or pharaoh robes. Framing: Close-up portrait.",
+        "consistent_character": true,
+        "meta": {
+            "model": "bytedance/hyper-flux-16step:382cf8959fb0f0d665b26e7e80b8d6dc3faaef1510f14ce017e8c732bb3d1eb7",
+            "input": {
+                "prompt": "[PROMPT]. Style: Hyper-realistic Ancient Egypt, rich in authentic architecture, garments, and cultural symbols. Lighting: Natural, diffused sunlight casting dynamic shadows and warm ambient tones. Effects: 4K clarity, lifelike textures, atmospheric dust, realistic depth of field and perspective.",
+                "width": 720,
+                "height": 1280,
+                "num_outputs": 1,
+                "aspect_ratio": "custom",
+                "output_format": "jpg",
+                "guidance_scale": 3.5,
+                "output_quality": 80,
+                "num_inference_steps": 20
+            }
+        }
+    },
+    {
+        "name": "Pixel Art",
+        "slug": "pixel-art",
+        "details": {
+            "quality": "low-res, crisp pixel detail, blocky texture",
+            "style": "retro 16-bit pixel art",
+            "type": "grid-based scene, nostalgic game aesthetic",
+            "mood": "playful, retro, stylized",
+            "lighting": "high-contrast pixel lighting, bold limited palette"
+        },
+        "active": true,
+        "prompt": "Front-facing, A front view pixel art sprite. Style: Retro 16-bit pixel art, blocky design, nostalgic video game aesthetic. Lighting: High-contrast pixel lighting with bold limited palette. Effects: Dithered shading, chunky textures, grid-aligned elements, pixel-level detail only. Framing: Close-up portrait.",
+        "consistent_character": true,
+        "meta": {
+            "model": "bytedance/hyper-flux-16step:382cf8959fb0f0d665b26e7e80b8d6dc3faaef1510f14ce017e8c732bb3d1eb7",
+            "input": {
+                "prompt": "A pixelated [PROMPT]. Style: Retro 16-bit pixel art, blocky design, nostalgic video game aesthetic. Lighting: High-contrast pixel lighting with bold limited palette. Effects: Dithered shading, chunky textures, grid-aligned elements, pixel-level detail only.",
+                "width": 720,
+                "height": 1280,
+                "num_outputs": 1,
+                "aspect_ratio": "custom",
+                "output_format": "jpg",
+                "guidance_scale": 3.5,
+                "output_quality": 80,
+                "num_inference_steps": 20
+            }
+        }
+    },
+    {
+        "name": "Paper Cut Art",
+        "slug": "paper-cut-art",
+        "details": {
+            "quality": "flat matte, handcrafted, layered depth",
+            "style": "paper cut illustration, simple shapes, clean edges",
+            "type": "hand-assembled scene from layered paper elements",
+            "mood": "playful, imaginative, whimsical",
+            "lighting": "soft top-light casting gentle shadow between layers"
+        },
+        "active": true,
+        "prompt": null,
+        "consistent_character": true,
+        "meta": {
+            "model": "bytedance/hyper-flux-16step:382cf8959fb0f0d665b26e7e80b8d6dc3faaef1510f14ce017e8c732bb3d1eb7",
+            "input": {
+                "prompt": "[PROMPT]. Style: Paper cut art featuring layered elements with sharp, defined edges, giving a handcrafted and artistic look. Lighting: Soft, diffused lighting that casts gentle shadows between the layers, enhancing the depth and texture of the paper. Additional Effects: Delicate paper mist, clouds, or silhouettes of birds, with intricate cut-outs in each layer to give a rich, tactile quality. modest clothing, fully clothed, avoid photorealistic textures, avoid digital effects, avoid 3D renders, avoid complex patterns",
+                "width": 720,
+                "height": 1280,
+                "num_outputs": 1,
+                "aspect_ratio": "custom",
+                "output_format": "jpg",
+                "guidance_scale": 3.5,
+                "output_quality": 80,
+                "num_inference_steps": 20
+            }
+        }
+    },
+    {
+        "name": "Mech",
+        "slug": "mech",
+        "details": {
+            "quality": "cinematic, high-detail, practical-effect realism",
+            "style": "tokusatsu, retro sci-fi, miniature-effect aesthetic",
+            "type": "urban environmental destruction",
+            "mood": "heroic, destructive, high-energy",
+            "lighting": "dramatic backlight, hard shadows, reflective armor glow"
+        },
+        "active": true,
+        "prompt": "Front view, Standing ready, one hand clenched. Style: Tokusatsu realism. Lighting: Metallic highlights. Effects: Sparks, smoke. Clothing: Mecha suit. Framing: Close-up portrait.",
+        "consistent_character": true,
+        "meta": {
+            "model": "bytedance/hyper-flux-16step:382cf8959fb0f0d665b26e7e80b8d6dc3faaef1510f14ce017e8c732bb3d1eb7",
+            "input": {
+                "prompt": "[PROMPT]. Style: Tokusatsu. Lighting: Dramatic lighting, with harsh shadows and bright highlights reflecting off the metallic surfaces. modest clothing, fully clothed, Additional Effects: Smoke trails, sparks, and glowing energy beams across the scene",
+                "width": 720,
+                "height": 1280,
+                "num_outputs": 1,
+                "aspect_ratio": "custom",
+                "output_format": "jpg",
+                "guidance_scale": 3.5,
+                "output_quality": 80,
+                "num_inference_steps": 20
+            }
+        }
+    },
+    {
+        "name": "Caricature",
+        "slug": "caricature",
+        "details": {
+            "quality": "high-quality, smooth, cartoonish exaggeration",
+            "style": "3D caricature, playful realism",
+            "type": "travel portrait, stylized environment",
+            "mood": "joyful, friendly, adventurous",
+            "lighting": "bright daylight, soft shadows, saturated highlights"
+        },
+        "active": true,
+        "prompt": null,
+        "consistent_character": true,
+        "meta": {
+            "model": "bytedance/hyper-flux-16step:382cf8959fb0f0d665b26e7e80b8d6dc3faaef1510f14ce017e8c732bb3d1eb7",
+            "input": {
+                "prompt": "[PROMPT]. Style: Exaggerated caricature, comically distorted proportions, bold linework. Lighting: Vibrant, unrealistic color schemes, dramatic shadows. modest clothing, fully clothed, Additional Effects: Exaggerated expressions, warped perspectives, comical details",
+                "width": 720,
+                "height": 1280,
+                "num_outputs": 1,
+                "aspect_ratio": "custom",
+                "output_format": "jpg",
+                "guidance_scale": 3.5,
+                "output_quality": 80,
+                "num_inference_steps": 20
+            }
+        }
+    },
+    {
+        "name": "Western Punk",
+        "slug": "western-punk",
+        "details": {
+            "quality": "hyper-realistic, gritty, textured detail",
+            "style": "westernpunk, retro-futuristic frontier",
+            "type": "anachronistic wild west scene, sci-fi fantasy fusion",
+            "mood": "rugged, mysterious, stylized",
+            "lighting": "dramatic contrasts, warm desert hues, eerie sci-fi glows"
+        },
+        "active": true,
+        "prompt": "Front-facing, Standing in dusty street, one hand on belt. Style: Westernpunk fusion. Lighting: Warm desert glow. Effects: Dust clouds, faint sparks. Clothing: Duster coat, leather accessories. Framing: Close-up portrait.",
+        "consistent_character": true,
+        "meta": {
+            "model": "bytedance/hyper-flux-16step:382cf8959fb0f0d665b26e7e80b8d6dc3faaef1510f14ce017e8c732bb3d1eb7",
+            "input": {
+                "prompt": "[PROMPT]. Style: Westernpunk, blending Old West with fantasy/sci-fi elements. Lighting: Dramatic contrasts, warm desert hues, eerie glows. modest clothing, fully clothed, Additional Effects: Weathered textures, surreal elements, anachronistic details",
+                "width": 720,
+                "height": 1280,
+                "num_outputs": 1,
+                "aspect_ratio": "custom",
+                "output_format": "jpg",
+                "guidance_scale": 3.5,
+                "output_quality": 80,
+                "num_inference_steps": 20
+            }
+        }
+    },
+    {
+        "name": "Watercolor",
+        "slug": "watercolor",
+        "details": {
+            "quality": "realistic, hand-painted, fluid pigment flow",
+            "style": "traditional watercolor painting, wet-on-wet technique",
+            "type": "fine art scene with expressive brushwork and organic blending",
+            "mood": "artistic, soft, emotionally textured",
+            "lighting": "natural diffused light, soft tonal gradients, watercolor bleeds"
+        },
+        "active": true,
+        "prompt": "Facing directly forward in a close-up portrait, gentle smile, one hand lightly touching the collarbone, the other arm relaxed just below the frame, head slightly tilted, expressive eyes gazing softly at the viewer, hair softly framing the face. Style:  Watercolor painting, fluid and expressive, blend of realism and abstract elements, Soft, feathered edges where colors meet Additional effects: Water blooms and color bleeds, Wet-on-wet technique for blended colors Framing: Close-up portrait.",
+        "consistent_character": true,
+        "meta": {
+            "model": "bytedance/hyper-flux-16step:382cf8959fb0f0d665b26e7e80b8d6dc3faaef1510f14ce017e8c732bb3d1eb7",
+            "input": {
+                "prompt": "[PROMPT]. Style: Watercolor painting, fluid and expressive, blend of realism and abstract elements, Soft, feathered edges where colors meet. modest clothing, fully clothed, Additional effects: Water blooms and color bleeds, Wet-on-wet technique for blended colors",
+                "width": 720,
+                "height": 1280,
+                "num_outputs": 1,
+                "aspect_ratio": "custom",
+                "output_format": "jpg",
+                "guidance_scale": 3.5,
+                "output_quality": 80,
+                "num_inference_steps": 20
+            }
+        }
+    },
+    {
+        "name": "Biblical History",
+        "slug": "biblical-history",
+        "details": {
+            "quality": "authentic, hyper-realistic, 8k",
+            "style": "biblical history",
+            "type": "historical illustration",
+            "mood": "epic, divine, serious",
+            "lighting": "dramatic, soft golden rays, divine glow"
+        },
+        "active": true,
+        "prompt": "Front-facing, Kneeling in prayer under divine light beams. Wearing flowing robes or tunic with golden sashes. Style: Biblical scenes. Lighting: Divine highlights. Effects: Ancient landscapes, soft paint depth. Framing: Close-up portrait.",
+        "consistent_character": true,
+        "meta": {
+            "model": "bytedance/hyper-flux-16step:382cf8959fb0f0d665b26e7e80b8d6dc3faaef1510f14ce017e8c732bb3d1eb7",
+            "input": {
+                "prompt": "[PROMPT]. Style: Biblical History. Lighting: Dramatic, soft golden rays breaking through clouds, creating a divine glow. Additional Effects: Flowing water, distant storm clouds, glowing figures, epic landscapes. modest clothing, fully clothed, avoid modern technology, avoid contemporary clothing, avoid bright neon colors, avoid abstract elements",
+                "width": 720,
+                "height": 1280,
+                "num_outputs": 1,
+                "aspect_ratio": "custom",
+                "output_format": "jpg",
+                "guidance_scale": 3.5,
+                "output_quality": 80,
+                "num_inference_steps": 20
+            }
+        }
+    },
+    {
+        "name": "Ancient India",
+        "slug": "ancient-india",
+        "details": {
+            "quality": "ultra-detailed, culturally rich, sacred photorealism",
+            "style": "mythological and divine",
+            "type": "Indian epic scene, spiritual presence, traditional attire",
+            "mood": "holy, majestic, meditative",
+            "lighting": "divine glow, ambient mist, soft light"
+        },
+        "active": true,
+        "prompt": null,
+        "consistent_character": true,
+        "meta": {
+            "model": "bytedance/hyper-flux-16step:382cf8959fb0f0d665b26e7e80b8d6dc3faaef1510f14ce017e8c732bb3d1eb7",
+            "input": {
+                "prompt": "[PROMPT]. Style: Indian Mythology, intricate details, traditional divine attire, vibrant colors, spiritual setting. modest clothing, fully clothed, Additional Effects: Ethereal aura, misty background, glowing symbols, subtle god rays",
+                "width": 720,
+                "height": 1280,
+                "num_outputs": 1,
+                "aspect_ratio": "custom",
+                "output_format": "jpg",
+                "guidance_scale": 3.5,
+                "output_quality": 80,
+                "num_inference_steps": 20
+            }
+        }
+    },
+    {
+        "name": "Native American",
+        "slug": "native-american",
+        "details": {
+            "quality": "high-detail, naturalistic, textured realism",
+            "style": "native american illustration, cultural storytelling",
+            "type": "land-based scene with wildlife and tradition",
+            "mood": "reverent, grounded, harmonious",
+            "lighting": "soft golden hour light, warm natural tones, ambient haze"
+        },
+        "active": true,
+        "prompt": null,
+        "consistent_character": true,
+        "meta": {
+            "model": "bytedance/hyper-flux-16step:382cf8959fb0f0d665b26e7e80b8d6dc3faaef1510f14ce017e8c732bb3d1eb7",
+            "input": {
+                "prompt": "[PROMPT]. Style: Native American illustration, inspired by traditional elements like tipis, horses, and natural landscapes- Lighting: Soft golden hour lighting with warm, natural tones. modest clothing, fully clothed, Additional Effects: Slight mist or dust in the air, dynamic movement of wildlife, detailed textures on clothing and landscapes",
+                "width": 720,
+                "height": 1280,
+                "num_outputs": 1,
+                "aspect_ratio": "custom",
+                "output_format": "jpg",
+                "guidance_scale": 3.5,
+                "output_quality": 80,
+                "num_inference_steps": 20
+            }
+        }
+    },
+    {
+        "name": "Psychedelic Art",
+        "slug": "psychedelic-art",
+        "details": {
+            "quality": "ultra-vivid, intricate, dreamlike precision",
+            "style": "psychedelic surrealism, fantasy vision, vibrant color fusion",
+            "type": "surreal symbolic scene or figure",
+            "mood": "trippy, otherworldly, intense",
+            "lighting": "neon glow, dynamic color gradients, high contrast highlights"
+        },
+        "active": true,
+        "prompt": "Front view, close-up portrait. Style: Psychedelic surreal illustration, 2D vector art, bold outlines, highly stylized. Lighting: bright and dynamic lighting with dramatic contrasts. Background: swirling colorful patterns and cosmic elements. Texture: smooth gradients, no photographic realism. Clothing: modern, simple shirt in complementary neon tones. Framing: Close-up portrait.",
+        "consistent_character": true,
+        "meta": {
+            "model": "bytedance/hyper-flux-16step:382cf8959fb0f0d665b26e7e80b8d6dc3faaef1510f14ce017e8c732bb3d1eb7",
+            "input": {
+                "prompt": "[PROMPT]. Style: Psychedelic Art with a focus on surrealism and vivid fantasy. modest clothing, fully clothed, Lighting: Bright and dynamic lighting with dramatic contrasts, highlighting intricate details and enhancing the sense of depth",
+                "width": 720,
+                "height": 1280,
+                "num_outputs": 1,
+                "aspect_ratio": "custom",
+                "output_format": "jpg",
+                "guidance_scale": 3.5,
+                "output_quality": 80,
+                "num_inference_steps": 20
+            }
+        }
+    },
+    {
+        "name": "Pencil Drawing",
+        "slug": "pencil-drawing",
+        "details": {
+            "quality": "realistic pencil rendering, fine graphite lines, visible pencil texture",
+            "style": "high-fidelity pencil drawing, traditional hand-drawn art",
+            "type": "detailed graphite illustration with realistic proportions and natural shading",
+            "mood": "artistic, technical, observational",
+            "lighting": "soft directional light with subtle tonal gradation, true-to-pencil shading"
+        },
+        "active": true,
+        "prompt": "Front-facing, sketched in dramatic black ink and rough brush strokes. Style: High-contrast monochrome ink drawing. Lighting: Sharp highlights and deep shadows to emphasize texture. Effects: Dynamic pose, expressive line work. Framing: Close-up portrait.",
+        "consistent_character": true,
+        "meta": {
+            "model": "bytedance/hyper-flux-16step:382cf8959fb0f0d665b26e7e80b8d6dc3faaef1510f14ce017e8c732bb3d1eb7",
+            "input": {
+                "prompt": "[PROMPT]. Style: Pencil Drawing, Detailed, Fine lines, Letters, Vivid, Illustrative. modest clothing, fully clothed, Additional Effects: Subtle shading and texture for depth",
+                "width": 720,
+                "height": 1280,
+                "num_outputs": 1,
+                "aspect_ratio": "custom",
+                "output_format": "jpg",
+                "guidance_scale": 3.5,
+                "output_quality": 80,
+                "num_inference_steps": 20
+            }
+        }
+    },
+    {
+        "name": "Viking",
+        "slug": "viking",
+        "details": {
+            "quality": "gritty, high-detail, cinematic realism",
+            "style": "norse historical fantasy",
+            "type": "viking scene with authentic attire and setting",
+            "mood": "stoic, rugged, mythic",
+            "lighting": "natural diffused light, dramatic backlighting, atmospheric fog"
+        },
+        "active": true,
+        "prompt": "Front-facing, Standing proud, hands at sides. Style: Norse realism. Lighting: Dramatic natural light. Effects: Mist, fur detail. Clothing: Leather armor. Framing: Close-up portrait.",
+        "consistent_character": true,
+        "meta": {
+            "model": "bytedance/hyper-flux-16step:382cf8959fb0f0d665b26e7e80b8d6dc3faaef1510f14ce017e8c732bb3d1eb7",
+            "input": {
+                "prompt": "[PROMPT]. Style: Norse historical, fantasy cinematic, authentic Viking elements. Lighting: Natural diffused light with dramatic backlighting. modest clothing, fully clothed, Additional Effects: Atmospheric fog, detailed textures for fur and braids",
+                "width": 720,
+                "height": 1280,
+                "num_outputs": 1,
+                "aspect_ratio": "custom",
+                "output_format": "jpg",
+                "guidance_scale": 3.5,
+                "output_quality": 80,
+                "num_inference_steps": 20
+            }
+        }
+    },
+    {
+        "name": "Steampunk",
+        "slug": "steampunk",
+        "details": {
+            "quality": "high-detail, metallic realism, textured surfaces",
+            "style": "steampunk, victorian-industrial fantasy",
+            "type": "mechanical scene with brass elements and steam effects",
+            "mood": "inventive, moody, vintage-futuristic",
+            "lighting": "warm ambient glow, soft shadows, gaslamp highlights with subtle lens flares"
+        },
+        "active": true,
+        "prompt": "Front-facing, Standing upright, one hand resting on belt. Style: Victorian steampunk. Lighting: Warm brass glow. Effects: Gears, smoke. Clothing: Corset vest, goggles. Framing: Close-up portrait.",
+        "consistent_character": true,
+        "meta": {
+            "model": "bytedance/hyper-flux-16step:382cf8959fb0f0d665b26e7e80b8d6dc3faaef1510f14ce017e8c732bb3d1eb7",
+            "input": {
+                "prompt": "[PROMPT]. Style: Steampunk. Lighting: Warm and ambient, with soft shadows and highlights to emphasize textures and metallic surfaces. modest clothing, fully clothed, Additional Effects: Intricate details featuring gears, steam effects, and brass textures; incorporate subtle lens flares to mimic the glow of gas lamps",
+                "width": 720,
+                "height": 1280,
+                "num_outputs": 1,
+                "aspect_ratio": "custom",
+                "output_format": "jpg",
+                "guidance_scale": 3.5,
+                "output_quality": 80,
+                "num_inference_steps": 20
+            }
+        }
+    },
+    {
+        "name": "Pop Art",
+        "slug": "pop-art",
+        "details": {
+            "quality": "high-contrast, crisp inking, bold shading",
+            "style": "1960s pop art comic, retro print aesthetic",
+            "type": "character portrait or expressive figure",
+            "mood": "dramatic, expressive, vintage Americana",
+            "lighting": "flat color fills, print-style halftone shadows, comic-style highlights"
+        },
+        "active": true,
+        "prompt": "Front view, Smiling brightly, hand on hip. Style: 1960s Pop Art, Roy Lichtenstein-inspired, thick inking, strong halftone dots, bold comic-style coloring. Background: Abstract or comic-style background with halftone gradients and simple props (e.g. posters or awards). Clothing: Modern casual shirt or outfit, simplified into bold blocks of color with stylized shading. Framing: Close-up portrait.",
+        "consistent_character": true,
+        "meta": {
+            "model": "bytedance/hyper-flux-16step:382cf8959fb0f0d665b26e7e80b8d6dc3faaef1510f14ce017e8c732bb3d1eb7",
+            "input": {
+                "prompt": "[PROMPT]. 1960s pop art style, Andy Warhol inspired, Roy Lichtenstein comic style, Ben-Day dots, screen printing effect, bold black outlines, ultra high contrast, commercial printing aesthetic, offset color blocks, dramatic halftone pattern, retro advertising style, modest clothing, fully clothed",
+                "width": 720,
+                "height": 1280,
+                "num_outputs": 1,
+                "aspect_ratio": "custom",
+                "output_format": "jpg",
+                "guidance_scale": 3.5,
+                "output_quality": 80,
+                "num_inference_steps": 20
+            }
+        }
+    },
+    {
+        "name": "Blockify",
+        "slug": "blockify",
+        "details": {
+            "quality": "8k, clean plastic surfaces, toy-grade rendering",
+            "style": "building block toy style, plastic bricks, modular design",
+            "type": "scene constructed entirely from interlocking toy pieces",
+            "mood": "playful, modular, imaginative",
+            "lighting": "toy-like glow, hard plastic shine, edge reflections on glossy blocks"
+        },
+        "active": true,
+        "prompt": "Front-facing, Jumping in the air, smiling. Style: Lego block style. Lighting: Clean bright light. Effects: Plastic shine. Clothing: Simplified toy outfit. Framing: Close-up portrait.",
+        "consistent_character": true,
+        "meta": {
+            "model": "bytedance/hyper-flux-16step:382cf8959fb0f0d665b26e7e80b8d6dc3faaef1510f14ce017e8c732bb3d1eb7",
+            "input": {
+                "prompt": "[PROMPT]. Style: building block toy, plastic bricks, modular pieces. modest clothing, fully clothed, Light: plastic shine, toy-like glow. Render: glossy texture, clean edges, 8k",
+                "width": 720,
+                "height": 1280,
+                "num_outputs": 1,
+                "aspect_ratio": "custom",
+                "output_format": "jpg",
+                "guidance_scale": 3.5,
+                "output_quality": 80,
+                "num_inference_steps": 20
+            }
+        }
+    },
+    {
+        "name": "Apocalypse",
+        "slug": "apocalypse",
+        "details": {
+            "quality": "highly detailed, textured, industrial realism",
+            "style": "dieselpunk, retrofuturistic sci-fi",
+            "type": "mechanical dystopian scene with exposed industrial components",
+            "mood": "bleak, haunting, weathered",
+            "lighting": "volumetric fog, ambient occlusion, rim lighting in muted tones"
+        },
+        "active": true,
+        "prompt": "Front-facing, Running through a ruined city with smoke behind. Wearing rugged jacket, utility gear. Style: Dieselpunk realism. Lighting: Orange ambient haze. Effects: Dust, debris. Framing: Close-up portrait.",
+        "consistent_character": true,
+        "meta": {
+            "model": "bytedance/hyper-flux-16step:382cf8959fb0f0d665b26e7e80b8d6dc3faaef1510f14ce017e8c732bb3d1eb7",
+            "input": {
+                "prompt": "Topic: [PROMPT], Style: dieselpunk, industrial sci-fi, retrofuturistic, Artist: Simon Stålenhag, Derek Stenning, Webpage: artstation, behance, Sharpness: highly detailed, intricate mechanical parts, Extra: steam vents, glowing orange indicators, exposed pipes, Shade: muted teal and rust orange color palette, Lighting: volumetric fog, ambient occlusion, rim lighting, Negative: no modern tech, no clean surfaces, no bright colors",
+                "width": 720,
+                "height": 1280,
+                "num_outputs": 1,
+                "aspect_ratio": "custom",
+                "output_format": "jpg",
+                "guidance_scale": 3.5,
+                "output_quality": 80,
+                "num_inference_steps": 20
+            }
+        }
+    },
+    {
+        "name": "Claymation",
+        "slug": "claymation",
+        "details": {
+            "quality": "matte, handcrafted, fingerprint-textured realism",
+            "style": "claymation, plasticine modeling, stop-motion aesthetic",
+            "type": "scene with handmolded clay figures",
+            "mood": "playful, quirky, handmade",
+            "lighting": "warm studio lighting, soft shadows, physical miniature highlights"
+        },
+        "active": true,
+        "prompt": "Front-facing, Mid-run with arms flailing. Wearing molded clay tunic or outfit. Style: Clay stop-motion. Lighting: Soft warm studio. Effects: Fingerprint texture. Framing: Close-up portrait.",
+        "consistent_character": true,
+        "meta": {
+            "model": "bytedance/hyper-flux-16step:382cf8959fb0f0d665b26e7e80b8d6dc3faaef1510f14ce017e8c732bb3d1eb7",
+            "input": {
+                "prompt": "[PROMPT]. Handmolded clay figures, matte plasticine texture, fingerprint details, imperfect clay surface, stop motion aesthetic, slightly rough edges, warm studio lighting, physical miniature scale, Aardman animation style.",
+                "width": 720,
+                "height": 1280,
+                "num_outputs": 1,
+                "aspect_ratio": "custom",
+                "output_format": "jpg",
+                "guidance_scale": 3.5,
+                "output_quality": 80,
+                "num_inference_steps": 20
+            }
+        }
+    },
+    {
+        "name": "Dreamscape",
+        "slug": "dreamscape",
+        "details": {
+            "quality": "smooth digital",
+            "style": "3D Digital render",
+            "type": "pixar style animated illustration",
+            "mood": "playful, exaggerated character design, expressive, rich dimensional depth",
+            "lighting": "soft, luminous textures"
+        },
+        "active": true,
+        "prompt": "A whimsical animated scene in the style of a Pixar movie directed by John Lasseter, featuring vibrant colors, expressive characters, and cinematic lighting. The environment should feel dreamlike and immersive, such as a lush jungle, icy arctic, or a colorful floating city. Characters should be stylized in 3D animation with exaggerated expressions and detailed textures. Use soft shadows, depth of field, and atmospheric perspective to enhance visual storytelling. Art style should combine painterly charm with polished 3D rendering. Scene composition should feel like a still from an award-winning animated feature.",
+        "consistent_character": true,
+        "meta": {
+            "model": "bytedance/hyper-flux-16step:382cf8959fb0f0d665b26e7e80b8d6dc3faaef1510f14ce017e8c732bb3d1eb7",
+            "input": {
+                "prompt": "[PROMPT]. Craft a 3D-rendered illustration with smooth digital sculpting, exaggerated character design, and luminous textures capturing animated storytelling through playful, expressive characters and rich dimensional depth.",
+                "width": 720,
+                "height": 1280,
+                "num_outputs": 1,
+                "aspect_ratio": "custom",
+                "output_format": "jpg",
+                "guidance_scale": 3.5,
+                "output_quality": 80,
+                "num_inference_steps": 20
+            }
+        }
+    },
+    {
+        "name": "Low Poly",
+        "slug": "low-poly",
+        "details": [],
+        "active": true,
+        "prompt": null,
+        "consistent_character": false,
+        "meta": {
+            "model": "bytedance/hyper-flux-16step:382cf8959fb0f0d665b26e7e80b8d6dc3faaef1510f14ce017e8c732bb3d1eb7",
+            "input": {
+                "prompt": "[PROMPT]. Low poly 3D render with geometric angular surfaces, minimal textures, and clean edges. Use a muted pastel color palette. Subject should appear faceted like an unfolded origami, with triangular and polygonal faces creating a modern, crystalline aesthetic. Soft ambient lighting to highlight the geometric planes.",
+                "width": 720,
+                "height": 1280,
+                "num_outputs": 1,
+                "aspect_ratio": "custom",
+                "output_format": "jpg",
+                "guidance_scale": 3.5,
+                "output_quality": 80,
+                "num_inference_steps": 20
+            }
+        }
+    },
+    {
+        "name": "Stained Glass",
+        "slug": "stained-glass",
+        "details": [],
+        "active": true,
+        "prompt": null,
+        "consistent_character": false,
+        "meta": {
+            "model": "bytedance/hyper-flux-16step:382cf8959fb0f0d665b26e7e80b8d6dc3faaef1510f14ce017e8c732bb3d1eb7",
+            "input": {
+                "prompt": "[PROMPT]. Create a stained glass artwork with a 3D, glass-like appearance. Use vibrant, translucent colors in intricate, geometric patterns. Incorporate strong lighting effects to accentuate the depth, reflections, and beveled edges of the glass material.",
+                "width": 720,
+                "height": 1280,
+                "num_outputs": 1,
+                "aspect_ratio": "custom",
+                "output_format": "jpg",
+                "guidance_scale": 3.5,
+                "output_quality": 80,
+                "num_inference_steps": 20
+            }
+        }
+    }
+]

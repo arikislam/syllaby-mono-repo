@@ -1,0 +1,2378 @@
+[
+    {
+        "id": "2b32d5c5-087e-45ef-8374-b4a4452249a9",
+        "name": "DIY and Craft Videos - Acoustic 1",
+        "slug": "diy-and-craft-videos-acoustic-1",
+        "tag": "Acoustic",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/2b32d5c5-087e-45ef-8374-b4a4452249a9/diy-and-craft-videos-acoustic-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "cc9e56ad-b7e7-435b-aef0-5e5e9e87b5b9",
+        "name": "DIY and Craft Videos - Acoustic 2",
+        "slug": "diy-and-craft-videos-acoustic-2",
+        "tag": "Acoustic",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/cc9e56ad-b7e7-435b-aef0-5e5e9e87b5b9/diy-and-craft-videos-acoustic-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "b3bac922-b929-47ab-ab41-29733f9aa911",
+        "name": "Educational Videos - Acoustic 1",
+        "slug": "educational-videos-acoustic-1",
+        "tag": "Acoustic",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/b3bac922-b929-47ab-ab41-29733f9aa911/educational-videos-acoustic-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "aa92e201-5215-4821-9af5-e991cd7e644a",
+        "name": "Educational Videos - Acoustic 2",
+        "slug": "educational-videos-acoustic-2",
+        "tag": "Acoustic",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/aa92e201-5215-4821-9af5-e991cd7e644a/educational-videos-acoustic-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "6dd6b8be-3dc5-48eb-a3de-d227385cded7",
+        "name": "Tutorial or How-To Videos - Acoustic 1",
+        "slug": "tutorial-or-how-to-videos-acoustic-1",
+        "tag": "Acoustic",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/6dd6b8be-3dc5-48eb-a3de-d227385cded7/tutorial-or-how-to-videos-acoustic-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "ebd64480-2394-4c9e-a3c3-52aef1d8bc67",
+        "name": "Tutorial or How-To Videos - Acoustic 2",
+        "slug": "tutorial-or-how-to-videos-acoustic-2",
+        "tag": "Acoustic",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/ebd64480-2394-4c9e-a3c3-52aef1d8bc67/tutorial-or-how-to-videos-acoustic-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "a8d4d966-567a-47af-bee4-47c93f627081",
+        "name": "Food and Cooking Videos - Acoustic 1",
+        "slug": "food-and-cooking-videos-acoustic-1",
+        "tag": "Acoustic",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/a8d4d966-567a-47af-bee4-47c93f627081/food-and-cooking-videos-acoustic-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "711ce0ed-7cd9-41bc-b713-e1c80c0327c4",
+        "name": "Food and Cooking Videos - Acoustic 2",
+        "slug": "food-and-cooking-videos-acoustic-2",
+        "tag": "Acoustic",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/711ce0ed-7cd9-41bc-b713-e1c80c0327c4/food-and-cooking-videos-acoustic-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "17435afa-0118-4276-b80d-a58e59c6f7ab",
+        "name": "AI Tools Review - Ambient 1",
+        "slug": "ai-tools-review-ambient-1",
+        "tag": "Ambient",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/17435afa-0118-4276-b80d-a58e59c6f7ab/ai-tools-review-ambient-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "4de18dc1-dfd7-436e-abe5-2f0bb9ffa4d6",
+        "name": "Ancient History - Ambient 1",
+        "slug": "ancient-history-ambient-1",
+        "tag": "Ambient",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/4de18dc1-dfd7-436e-abe5-2f0bb9ffa4d6/ancient-history-ambient-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "4c9d5600-99b1-4480-916c-ba7df7e0b658",
+        "name": "Horror Stories - Ambient 1",
+        "slug": "horror-stories-ambient-1",
+        "tag": "Ambient",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/4c9d5600-99b1-4480-916c-ba7df7e0b658/horror-stories-ambient-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "98c50041-a3e9-4e5c-9f5b-f299eff5569e",
+        "name": "Horror Stories - Ambient 2",
+        "slug": "horror-stories-ambient-2",
+        "tag": "Ambient",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/98c50041-a3e9-4e5c-9f5b-f299eff5569e/horror-stories-ambient-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "cccc565c-7e8a-4762-a0bc-1131ce75b4de",
+        "name": "Movie Reviews - Ambient 1",
+        "slug": "movie-reviews-ambient-1",
+        "tag": "Ambient",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/cccc565c-7e8a-4762-a0bc-1131ce75b4de/movie-reviews-ambient-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "f6e8d0a5-afaf-4526-bb55-9182bbdaaecd",
+        "name": "Movie Reviews - Ambient 2",
+        "slug": "movie-reviews-ambient-2",
+        "tag": "Ambient",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/f6e8d0a5-afaf-4526-bb55-9182bbdaaecd/movie-reviews-ambient-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "e1a91738-f5c6-49b8-84e0-b1a6bf409880",
+        "name": "Mythology - Ambient 2",
+        "slug": "mythology-ambient-2",
+        "tag": "Ambient",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/e1a91738-f5c6-49b8-84e0-b1a6bf409880/mythology-ambient-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "47bdb787-375a-4c02-a677-35f6003e6314",
+        "name": "Productivity Hacks - Ambient 1",
+        "slug": "productivity-hacks-ambient-1",
+        "tag": "Ambient",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/47bdb787-375a-4c02-a677-35f6003e6314/productivity-hacks-ambient-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "ff51caac-f6e4-477e-bca9-b49d94047138",
+        "name": "Productivity Hacks - Ambient 2",
+        "slug": "productivity-hacks-ambient-2",
+        "tag": "Ambient",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/ff51caac-f6e4-477e-bca9-b49d94047138/productivity-hacks-ambient-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "7b5bf79c-9cb8-410b-b065-41f462c66df0",
+        "name": "Food and Cooking Videos - Chill Background Music 1",
+        "slug": "food-and-cooking-videos-chill-background-music-1",
+        "tag": "Chill Background Music",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/7b5bf79c-9cb8-410b-b065-41f462c66df0/food-and-cooking-videos-chill-background-music-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "bfac3e6f-e9f9-425e-8efc-6c4981df85fd",
+        "name": "Food and Cooking Videos - Chill Background Music 2",
+        "slug": "food-and-cooking-videos-chill-background-music-2",
+        "tag": "Chill Background Music",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/bfac3e6f-e9f9-425e-8efc-6c4981df85fd/food-and-cooking-videos-chill-background-music-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "b51fc2f2-2d31-4cb7-8527-a213427a0ab8",
+        "name": "Food and Cooking Videos - Chill Background Music 3",
+        "slug": "food-and-cooking-videos-chill-background-music-3",
+        "tag": "Chill Background Music",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/b51fc2f2-2d31-4cb7-8527-a213427a0ab8/food-and-cooking-videos-chill-background-music-3.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "b5f44a6e-d2e6-4155-9f13-5980b914a121",
+        "name": "Tutorial or How-To Videos - Chill Background Music 1",
+        "slug": "tutorial-or-how-to-videos-chill-background-music-1",
+        "tag": "Chill Background Music",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/b5f44a6e-d2e6-4155-9f13-5980b914a121/tutorial-or-how-to-videos-chill-background-music-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "b92ca9ba-3df4-4345-b8c5-31150c17479e",
+        "name": "Tutorial or How-To Videos - Chill Background Music 2",
+        "slug": "tutorial-or-how-to-videos-chill-background-music-2",
+        "tag": "Chill Background Music",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/b92ca9ba-3df4-4345-b8c5-31150c17479e/tutorial-or-how-to-videos-chill-background-music-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "dcffda4b-f66f-4334-8637-2aa2cda4eb95",
+        "name": "Ancient History - Cinematic 1",
+        "slug": "ancient-history-cinematic-1",
+        "tag": "Cinematic",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/dcffda4b-f66f-4334-8637-2aa2cda4eb95/ancient-history-cinematic-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "175f58d8-f84f-408d-ad56-af55af545dc7",
+        "name": "Ancient History - Cinematic 2",
+        "slug": "ancient-history-cinematic-2",
+        "tag": "Cinematic",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/175f58d8-f84f-408d-ad56-af55af545dc7/ancient-history-cinematic-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "a491c26d-012f-4f21-89e1-546af0e426eb",
+        "name": "Documentary and Storytelling - Cinematic 1",
+        "slug": "documentary-and-storytelling-cinematic-1",
+        "tag": "Cinematic",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/a491c26d-012f-4f21-89e1-546af0e426eb/documentary-and-storytelling-cinematic-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "fb6cb0d7-e3d1-4021-afab-526f7058cfc1",
+        "name": "Horror Stories - Cinematic 1",
+        "slug": "horror-stories-cinematic-1",
+        "tag": "Cinematic",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/fb6cb0d7-e3d1-4021-afab-526f7058cfc1/horror-stories-cinematic-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "a6d78c05-0391-4c51-9360-d5bfb3ae8635",
+        "name": "Horror Stories - Cinematic 2",
+        "slug": "horror-stories-cinematic-2",
+        "tag": "Cinematic",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/a6d78c05-0391-4c51-9360-d5bfb3ae8635/horror-stories-cinematic-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "3aa8bdb5-bddb-4da7-b328-fc78be84c64d",
+        "name": "Documentary and Storytelling - Cinematic 2",
+        "slug": "documentary-and-storytelling-cinematic-2",
+        "tag": "Cinematic",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/3aa8bdb5-bddb-4da7-b328-fc78be84c64d/documentary-and-storytelling-cinematic-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "b80747cb-14a4-4032-922a-3793e17aa762",
+        "name": "Ancient History - Classical 1",
+        "slug": "ancient-history-classical-1",
+        "tag": "Classical",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/b80747cb-14a4-4032-922a-3793e17aa762/ancient-history-classical-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "b8f61dc4-2e80-4654-b39a-e6f53e58a67e",
+        "name": "Ancient History - Classical 2",
+        "slug": "ancient-history-classical-2",
+        "tag": "Classical",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/b8f61dc4-2e80-4654-b39a-e6f53e58a67e/ancient-history-classical-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "17fc33f2-6ed1-4bf7-ae1a-796c2485a42e",
+        "name": "Documentary and Storytelling - Classical 1",
+        "slug": "documentary-and-storytelling-classical-1",
+        "tag": "Classical",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/17fc33f2-6ed1-4bf7-ae1a-796c2485a42e/documentary-and-storytelling-classical-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "ecc74cc1-3651-49cd-a49b-88682c3cfc81",
+        "name": "Documentary and Storytelling - Classical 2",
+        "slug": "documentary-and-storytelling-classical-2",
+        "tag": "Classical",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/ecc74cc1-3651-49cd-a49b-88682c3cfc81/documentary-and-storytelling-classical-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "d9db0f6d-135e-47f2-9053-50b6aebab314",
+        "name": "Horror Stories - Classical 1",
+        "slug": "horror-stories-classical-1",
+        "tag": "Classical",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/d9db0f6d-135e-47f2-9053-50b6aebab314/horror-stories-classical-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "0308c9eb-ae0b-48bf-9621-dd0562d67f7c",
+        "name": "Horror Stories - Classical 2",
+        "slug": "horror-stories-classical-2",
+        "tag": "Classical",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/0308c9eb-ae0b-48bf-9621-dd0562d67f7c/horror-stories-classical-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "f71999c9-4b33-466f-a879-a1b8d4cc70ab",
+        "name": "Mythology - Classical 1",
+        "slug": "mythology-classical-1",
+        "tag": "Classical",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/f71999c9-4b33-466f-a879-a1b8d4cc70ab/mythology-classical-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "60d0b4af-d52a-4236-b66d-1865ffd9fa20",
+        "name": "Mythology - Classical 2",
+        "slug": "mythology-classical-2",
+        "tag": "Classical",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/60d0b4af-d52a-4236-b66d-1865ffd9fa20/mythology-classical-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "0fc67901-9d72-4b97-a0b9-1adc8674c4fd",
+        "name": "Mythology - Classical 3",
+        "slug": "mythology-classical-3",
+        "tag": "Classical",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/0fc67901-9d72-4b97-a0b9-1adc8674c4fd/mythology-classical-3.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "4ff81e53-9d73-4f84-a356-8297d34b3cc1",
+        "name": "Mythology - Classical 4",
+        "slug": "mythology-classical-4",
+        "tag": "Classical",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/4ff81e53-9d73-4f84-a356-8297d34b3cc1/mythology-classical-4.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "1895d409-9321-4063-b807-c1686a1c0be0",
+        "name": "Productivity Hacks - Classical 1",
+        "slug": "productivity-hacks-classical-1",
+        "tag": "Classical",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/1895d409-9321-4063-b807-c1686a1c0be0/productivity-hacks-classical-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "6b47114e-9732-41fe-9840-8d0f660efa77",
+        "name": "Productivity Hacks - Classical 2",
+        "slug": "productivity-hacks-classical-2",
+        "tag": "Classical",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/6b47114e-9732-41fe-9840-8d0f660efa77/productivity-hacks-classical-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "21058fa6-213e-4798-9464-f8618add718f",
+        "name": "Horror Stories - Classical Instrumental 1",
+        "slug": "horror-stories-classical-instrumental-1",
+        "tag": "Classical",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/21058fa6-213e-4798-9464-f8618add718f/horror-stories-classical-instrumental-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "8e3030c1-c4db-44af-8887-0dc3d7edc275",
+        "name": "Horror Stories - Classical Instrumental 2",
+        "slug": "horror-stories-classical-instrumental-2",
+        "tag": "Classical",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/8e3030c1-c4db-44af-8887-0dc3d7edc275/horror-stories-classical-instrumental-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "b746d355-0bf9-48a7-984a-e31fabf8c6ea",
+        "name": "Horror Stories - Classical Piano 1",
+        "slug": "horror-stories-classical-piano-1",
+        "tag": "Classical",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/b746d355-0bf9-48a7-984a-e31fabf8c6ea/horror-stories-classical-piano-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "b665b609-e070-4f50-ad38-297ace423a34",
+        "name": "Horror Stories - Classical Piano 2",
+        "slug": "horror-stories-classical-piano-2",
+        "tag": "Classical",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/b665b609-e070-4f50-ad38-297ace423a34/horror-stories-classical-piano-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "1b844681-1e7a-4c13-bc1d-8cab61fe9d29",
+        "name": "Ancient History - Classical (Baroque) 1",
+        "slug": "ancient-history-classical-baroque-1",
+        "tag": "Classical",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/1b844681-1e7a-4c13-bc1d-8cab61fe9d29/ancient-history-classical-baroque-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "a5c01197-dfd8-4485-b6d5-96cd392a3f95",
+        "name": "Ancient History - Classical (Baroque) 2",
+        "slug": "ancient-history-classical-baroque-2",
+        "tag": "Classical",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/a5c01197-dfd8-4485-b6d5-96cd392a3f95/ancient-history-classical-baroque-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "6df9fff4-66d8-4cc7-a124-4fedf8ad06d4",
+        "name": "AI Tools Review - Electronic 1",
+        "slug": "ai-tools-review-electronic-1",
+        "tag": "Electronic",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/6df9fff4-66d8-4cc7-a124-4fedf8ad06d4/ai-tools-review-electronic-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "caae4636-e118-4518-a0bc-93a39039b277",
+        "name": "AI Tools Review - Electronic 2",
+        "slug": "ai-tools-review-electronic-2",
+        "tag": "Electronic",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/caae4636-e118-4518-a0bc-93a39039b277/ai-tools-review-electronic-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "efd5f656-67f7-414c-9078-efccc71371bc",
+        "name": "Life Hacks Videos - Electronic 1",
+        "slug": "life-hacks-videos-electronic-1",
+        "tag": "Electronic",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/efd5f656-67f7-414c-9078-efccc71371bc/life-hacks-videos-electronic-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "49e555f8-e32e-4669-8b67-2cb4726b6441",
+        "name": "Life Hacks Videos - Electronic 2",
+        "slug": "life-hacks-videos-electronic-2",
+        "tag": "Electronic",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/49e555f8-e32e-4669-8b67-2cb4726b6441/life-hacks-videos-electronic-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "c4304c67-29bd-488e-b886-918921fd7118",
+        "name": "Top 5_Top 10 - Electronic 1",
+        "slug": "top-5-top-10-electronic-1",
+        "tag": "Electronic",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/c4304c67-29bd-488e-b886-918921fd7118/top-5-top-10-electronic-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "d4d55cd1-2cba-48fa-b999-7ebab8ae4843",
+        "name": "Top 5_Top 10 - Electronic 2",
+        "slug": "top-5-top-10-electronic-2",
+        "tag": "Electronic",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/d4d55cd1-2cba-48fa-b999-7ebab8ae4843/top-5-top-10-electronic-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "890a0cf9-8190-4863-8d0c-73031c2ebfcd",
+        "name": "Horror Stories - Electronic 1",
+        "slug": "horror-stories-electronic-1",
+        "tag": "Electronic",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/890a0cf9-8190-4863-8d0c-73031c2ebfcd/horror-stories-electronic-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "a5a28cd4-23ec-4ef0-b714-1a60171bb880",
+        "name": "Horror Stories - Electronic 2",
+        "slug": "horror-stories-electronic-2",
+        "tag": "Electronic",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/a5a28cd4-23ec-4ef0-b714-1a60171bb880/horror-stories-electronic-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "6eb9da05-d2ea-4c71-b20e-feaee497a688",
+        "name": "DIY and Craft Videos - Folk 2",
+        "slug": "diy-and-craft-videos-folk-2",
+        "tag": "Folk",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/6eb9da05-d2ea-4c71-b20e-feaee497a688/diy-and-craft-videos-folk-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "ac6a6f0b-115b-4396-a61e-d3bccaf62f6f",
+        "name": "Documentary and Storytelling - Folk 1",
+        "slug": "documentary-and-storytelling-folk-1",
+        "tag": "Folk",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/ac6a6f0b-115b-4396-a61e-d3bccaf62f6f/documentary-and-storytelling-folk-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "56877056-a2c6-4232-b887-e13425a04836",
+        "name": "Mythology - Folk 1",
+        "slug": "mythology-folk-1",
+        "tag": "Folk",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/56877056-a2c6-4232-b887-e13425a04836/mythology-folk-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "059c6da6-a1c2-4282-83be-63763173c337",
+        "name": "Mythology - Folk 2",
+        "slug": "mythology-folk-2",
+        "tag": "Folk",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/059c6da6-a1c2-4282-83be-63763173c337/mythology-folk-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "7982ce8c-449f-4a7e-afeb-2f997d63b20b",
+        "name": "Ancient History - Folk 1",
+        "slug": "ancient-history-folk-1",
+        "tag": "Folk",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/7982ce8c-449f-4a7e-afeb-2f997d63b20b/ancient-history-folk-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "f4d28257-f4b4-429d-98cc-8f99ad498354",
+        "name": "Ancient History - Folk 2",
+        "slug": "ancient-history-folk-2",
+        "tag": "Folk",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/f4d28257-f4b4-429d-98cc-8f99ad498354/ancient-history-folk-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "f98bf9bb-7796-47df-ace6-248f0b8720fe",
+        "name": "Top 5_Top 10 - Hip Hop 1",
+        "slug": "top-5-top-10-hip-hop-1",
+        "tag": "Hip-Hop\/Rap",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/f98bf9bb-7796-47df-ace6-248f0b8720fe/top-5-top-10-hip-hop-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "dc399f50-ea8c-4445-94c8-2d326492e631",
+        "name": "Top 5_Top 10 - Hip Hop 2",
+        "slug": "top-5-top-10-hip-hop-2",
+        "tag": "Hip-Hop\/Rap",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/dc399f50-ea8c-4445-94c8-2d326492e631/top-5-top-10-hip-hop-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "8bf5bc91-10ef-4942-87cc-20d9699dfb2e",
+        "name": "Top 5_Top 10 - Hip Hop 3",
+        "slug": "top-5-top-10-hip-hop-3",
+        "tag": "Hip-Hop\/Rap",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/8bf5bc91-10ef-4942-87cc-20d9699dfb2e/top-5-top-10-hip-hop-3.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "a4c13a4a-0931-4878-b07d-74048409536d",
+        "name": "Top 5_Top 10 - Hip Hop 4",
+        "slug": "top-5-top-10-hip-hop-4",
+        "tag": "Hip-Hop\/Rap",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/a4c13a4a-0931-4878-b07d-74048409536d/top-5-top-10-hip-hop-4.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "474cd084-8810-451e-a2ad-464738b05536",
+        "name": "DIY and Craft Videos - Indie_Alternative 1",
+        "slug": "diy-and-craft-videos-indie-alternative-1",
+        "tag": "Indie\/Alternative",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/474cd084-8810-451e-a2ad-464738b05536/diy-and-craft-videos-indie-alternative-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "4396f10f-d02c-42a8-a647-03b9252fa728",
+        "name": "DIY and Craft Videos - Indie_Alternative 2",
+        "slug": "diy-and-craft-videos-indie-alternative-2",
+        "tag": "Indie\/Alternative",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/4396f10f-d02c-42a8-a647-03b9252fa728/diy-and-craft-videos-indie-alternative-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "d634b610-eb8b-495c-ab2f-a66490840718",
+        "name": "Life Hacks Videos - Indie_Alternative 1",
+        "slug": "life-hacks-videos-indie-alternative-1",
+        "tag": "Indie\/Alternative",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/d634b610-eb8b-495c-ab2f-a66490840718/life-hacks-videos-indie-alternative-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "3efe4fe4-294b-486e-8435-2e155f61ab9f",
+        "name": "Life Hacks Videos - Indie_Alternative 2",
+        "slug": "life-hacks-videos-indie-alternative-2",
+        "tag": "Indie\/Alternative",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/3efe4fe4-294b-486e-8435-2e155f61ab9f/life-hacks-videos-indie-alternative-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "c70be096-0c53-4a76-b9e0-8f52dd819fdc",
+        "name": "Food and Cooking Videos - Jazz 1",
+        "slug": "food-and-cooking-videos-jazz-1",
+        "tag": "Jazz",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/c70be096-0c53-4a76-b9e0-8f52dd819fdc/food-and-cooking-videos-jazz-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "c2b7ddd7-c509-4a4f-af92-4761b40db553",
+        "name": "Food and Cooking Videos - Jazz 2",
+        "slug": "food-and-cooking-videos-jazz-2",
+        "tag": "Jazz",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/c2b7ddd7-c509-4a4f-af92-4761b40db553/food-and-cooking-videos-jazz-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "a8d48586-8ce9-4ffe-9dcf-92f48b3283c8",
+        "name": "Food and Cooking Videos - Jazz 3",
+        "slug": "food-and-cooking-videos-jazz-3",
+        "tag": "Jazz",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/a8d48586-8ce9-4ffe-9dcf-92f48b3283c8/food-and-cooking-videos-jazz-3.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "3165b828-ab69-43d2-83e8-292b774a12f7",
+        "name": "Food and Cooking Videos - Jazz 4",
+        "slug": "food-and-cooking-videos-jazz-4",
+        "tag": "Jazz",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/3165b828-ab69-43d2-83e8-292b774a12f7/food-and-cooking-videos-jazz-4.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "4083287b-c7fa-4a67-855f-91829a40dfa0",
+        "name": "Product Review - Lo-fi (low-fidelity) 1",
+        "slug": "product-review-lo-fi-low-fidelity-1",
+        "tag": "Lo-fi (low-fidelity)",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/4083287b-c7fa-4a67-855f-91829a40dfa0/product-review-lo-fi-low-fidelity-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "4047272c-8453-4610-8669-b03cc329210d",
+        "name": "Product Review - Lo-fi (low-fidelity) 2",
+        "slug": "product-review-lo-fi-low-fidelity-2",
+        "tag": "Lo-fi (low-fidelity)",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/4047272c-8453-4610-8669-b03cc329210d/product-review-lo-fi-low-fidelity-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "55bcfb45-4b35-4ab3-9153-4cc83d140ebb",
+        "name": "Productivity Hacks - Lo-fi (low-fidelity) 1",
+        "slug": "productivity-hacks-lo-fi-low-fidelity-1",
+        "tag": "Lo-fi (low-fidelity)",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/55bcfb45-4b35-4ab3-9153-4cc83d140ebb/productivity-hacks-lo-fi-low-fidelity-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "36500ebb-fa4c-4ccb-8e8a-62fcbd6bf0cb",
+        "name": "Tutorial or How-To Videos - Lo-fi (low-fidelity) 1",
+        "slug": "tutorial-or-how-to-videos-lo-fi-low-fidelity-1",
+        "tag": "Lo-fi (low-fidelity)",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/36500ebb-fa4c-4ccb-8e8a-62fcbd6bf0cb/tutorial-or-how-to-videos-lo-fi-low-fidelity-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "fdc59ca7-19fc-46b2-b244-0f1f1f174e87",
+        "name": "Tutorial or How-To Videos - Lo-fi (low-fidelity) 2",
+        "slug": "tutorial-or-how-to-videos-lo-fi-low-fidelity-2",
+        "tag": "Lo-fi (low-fidelity)",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/fdc59ca7-19fc-46b2-b244-0f1f1f174e87/tutorial-or-how-to-videos-lo-fi-low-fidelity-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "6600293e-ad81-42c3-a319-ee1f4be17732",
+        "name": "Product Review - Pop 1",
+        "slug": "product-review-pop-1",
+        "tag": "Pop",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/6600293e-ad81-42c3-a319-ee1f4be17732/product-review-pop-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "5e6c09c3-80e9-4020-99fe-00b5c1e9beb0",
+        "name": "Product Review - Pop 2",
+        "slug": "product-review-pop-2",
+        "tag": "Pop",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/5e6c09c3-80e9-4020-99fe-00b5c1e9beb0/product-review-pop-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "65834a6d-0159-4354-aaef-32af7cd685b6",
+        "name": "Food and Cooking Videos - Pop 1",
+        "slug": "food-and-cooking-videos-pop-1",
+        "tag": "Pop",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/65834a6d-0159-4354-aaef-32af7cd685b6/food-and-cooking-videos-pop-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "5dca9b50-51da-4d85-baa8-c90dc809a99f",
+        "name": "Food and Cooking Videos - Pop 2",
+        "slug": "food-and-cooking-videos-pop-2",
+        "tag": "Pop",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/5dca9b50-51da-4d85-baa8-c90dc809a99f/food-and-cooking-videos-pop-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "c2319fbc-afc8-453d-a7bb-bca946cab9e3",
+        "name": "Tutorial or How-To Videos - Ska 1",
+        "slug": "tutorial-or-how-to-videos-ska-1",
+        "tag": "Ska",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/c2319fbc-afc8-453d-a7bb-bca946cab9e3/tutorial-or-how-to-videos-ska-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "2054ce5b-ff9e-4021-830d-869bf583ad3a",
+        "name": "Tutorial or How-To Videos - Ska 2",
+        "slug": "tutorial-or-how-to-videos-ska-2",
+        "tag": "Ska",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/2054ce5b-ff9e-4021-830d-869bf583ad3a/tutorial-or-how-to-videos-ska-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "951efb91-feac-4b19-8862-f405ed17a0a2",
+        "name": "Electronic (Techno) 1 ",
+        "slug": "electronic-techno-1",
+        "tag": "Electronic",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/951efb91-feac-4b19-8862-f405ed17a0a2/electronic-techno-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "ca6667ca-91dd-4fd2-8322-9977a4caa7dd",
+        "name": "Electronic (Techno) 2 ",
+        "slug": "electronic-techno-2",
+        "tag": "Electronic",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/ca6667ca-91dd-4fd2-8322-9977a4caa7dd/electronic-techno-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "a0555bd1-0121-443e-84f2-f22110024023",
+        "name": "Electronic (Techno) 3",
+        "slug": "electronic-techno-3",
+        "tag": "Electronic",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/a0555bd1-0121-443e-84f2-f22110024023/electronic-techno-3.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "1ca04581-d975-48e9-80d7-2e7bf8cd22f0",
+        "name": "Electronic (Techno) 4 ",
+        "slug": "electronic-techno-4",
+        "tag": "Electronic",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/1ca04581-d975-48e9-80d7-2e7bf8cd22f0/electronic-techno-4.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "8d2e3e39-6968-403a-bfde-9a5643462de1",
+        "name": "Electronic (Ambient) 1",
+        "slug": "electronic-ambient-1",
+        "tag": "Electronic",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/8d2e3e39-6968-403a-bfde-9a5643462de1/electronic-ambient-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "84734b54-ebb8-45c4-8a69-f3ff96d9099a",
+        "name": "Electronic (Ambient) 2",
+        "slug": "electronic-ambient-2",
+        "tag": "Electronic",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/84734b54-ebb8-45c4-8a69-f3ff96d9099a/electronic-ambient-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "50534801-2835-4efc-b179-7a7e15398cda",
+        "name": "Electronic (Ambient) 3",
+        "slug": "electronic-ambient-3",
+        "tag": "Electronic",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/50534801-2835-4efc-b179-7a7e15398cda/electronic-ambient-3.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "0ffcdee9-310e-4db8-8757-902030b1ce8c",
+        "name": "Electronic (Ambient) 4",
+        "slug": "electronic-ambient-4",
+        "tag": "Electronic",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/0ffcdee9-310e-4db8-8757-902030b1ce8c/electronic-ambient-4.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "1b294c09-29e9-4e94-b2c5-3812761b477d",
+        "name": "Electronic (House) 1",
+        "slug": "electronic-house-1",
+        "tag": "Electronic",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/1b294c09-29e9-4e94-b2c5-3812761b477d/electronic-house-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "50dc76ce-f042-4d9a-aea0-d69920adf53e",
+        "name": "Electronic (House) 2",
+        "slug": "electronic-house-2",
+        "tag": "Electronic",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/50dc76ce-f042-4d9a-aea0-d69920adf53e/electronic-house-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "53c45589-3354-497d-9ff1-4b0b40b92998",
+        "name": "Electronic (House) 3",
+        "slug": "electronic-house-3",
+        "tag": "Electronic",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/53c45589-3354-497d-9ff1-4b0b40b92998/electronic-house-3.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "641179f6-dda3-4ae3-b2e1-3cadb86f7066",
+        "name": "Electronic (House) 4",
+        "slug": "electronic-house-4",
+        "tag": "Electronic",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/641179f6-dda3-4ae3-b2e1-3cadb86f7066/electronic-house-4.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "55d1385e-68b8-4a6b-b966-8a247f7df113",
+        "name": "Electronic (Dubstep) 1 ",
+        "slug": "electronic-dubstep-1",
+        "tag": "Electronic",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/55d1385e-68b8-4a6b-b966-8a247f7df113/electronic-dubstep-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "317ae1a8-8aad-4723-97b9-9860ce656535",
+        "name": "Electronic (Dubstep) 2",
+        "slug": "electronic-dubstep-2",
+        "tag": "Electronic",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/317ae1a8-8aad-4723-97b9-9860ce656535/electronic-dubstep-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "abe0d305-ddcb-426a-9e33-0fab980d4033",
+        "name": "Electronic (Dubstep) 3",
+        "slug": "electronic-dubstep-3",
+        "tag": "Electronic",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/abe0d305-ddcb-426a-9e33-0fab980d4033/electronic-dubstep-3.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "6d08d6eb-3651-4236-9ec5-a18b0e8a469f",
+        "name": "Electronic (Dubstep) 4",
+        "slug": "electronic-dubstep-4",
+        "tag": "Electronic",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/6d08d6eb-3651-4236-9ec5-a18b0e8a469f/electronic-dubstep-4.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "7911da92-1275-414c-bd60-ea7f41482a89",
+        "name": "Electronic (Dubstep) 5",
+        "slug": "electronic-dubstep-5",
+        "tag": "Electronic",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/7911da92-1275-414c-bd60-ea7f41482a89/electronic-dubstep-5.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "e3a4a562-6379-414f-998f-3a69dc475563",
+        "name": "Electronic (Dubstep) 6",
+        "slug": "electronic-dubstep-6",
+        "tag": "Electronic",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/e3a4a562-6379-414f-998f-3a69dc475563/electronic-dubstep-6.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "88eb09be-aa77-4e49-bdb9-54a287518e92",
+        "name": "Modern Pop 1",
+        "slug": "modern-pop-1",
+        "tag": "Modern Pop",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/88eb09be-aa77-4e49-bdb9-54a287518e92/modern-pop-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "9b666d5c-c580-4277-98e0-df939106bffa",
+        "name": "Modern Pop 2",
+        "slug": "modern-pop-2",
+        "tag": "Modern Pop",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/9b666d5c-c580-4277-98e0-df939106bffa/modern-pop-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "52738c3f-783a-47a5-9a51-c0e4085fb140",
+        "name": "Modern Pop 3",
+        "slug": "modern-pop-3",
+        "tag": "Modern Pop",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/52738c3f-783a-47a5-9a51-c0e4085fb140/modern-pop-3.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "b0a4a774-9660-4751-aeee-95698e81ff49",
+        "name": "Modern Pop 4",
+        "slug": "modern-pop-4",
+        "tag": "Modern Pop",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/b0a4a774-9660-4751-aeee-95698e81ff49/modern-pop-4.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "e6dc1d24-d7ec-45b2-8c31-017603407cfa",
+        "name": "Modern Pop 5",
+        "slug": "modern-pop-5",
+        "tag": "Modern Pop",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/e6dc1d24-d7ec-45b2-8c31-017603407cfa/modern-pop-5.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "539c0e6b-e7c7-4d45-8b92-31f3c80e51d0",
+        "name": "Modern Pop 6",
+        "slug": "modern-pop-6",
+        "tag": "Modern Pop",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/539c0e6b-e7c7-4d45-8b92-31f3c80e51d0/modern-pop-6.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "0a332363-fdad-4151-a36e-aafff08f6c93",
+        "name": "Synth-Pop 1",
+        "slug": "synth-pop-1",
+        "tag": "Synth-Pop",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/0a332363-fdad-4151-a36e-aafff08f6c93/synth-pop-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "62c383a2-c1ba-465e-b36b-5650231e88a5",
+        "name": "Synth-Pop 2",
+        "slug": "synth-pop-2",
+        "tag": "Synth-Pop",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/62c383a2-c1ba-465e-b36b-5650231e88a5/synth-pop-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "22163119-e335-45e8-bf7f-c507551a8384",
+        "name": "Synth-Pop 3",
+        "slug": "synth-pop-3",
+        "tag": "Synth-Pop",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/22163119-e335-45e8-bf7f-c507551a8384/synth-pop-3.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "f7250bb3-c8d0-44de-b906-9edb19c22318",
+        "name": "Synth-Pop 4",
+        "slug": "synth-pop-4",
+        "tag": "Synth-Pop",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/f7250bb3-c8d0-44de-b906-9edb19c22318/synth-pop-4.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "5b6c53d4-faf0-4138-a7d4-c5b45321c0ff",
+        "name": "Synth-Pop 5",
+        "slug": "synth-pop-5",
+        "tag": "Synth-Pop",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/5b6c53d4-faf0-4138-a7d4-c5b45321c0ff/synth-pop-5.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "5b59c09f-05ec-4300-b4fe-56f37d91401d",
+        "name": "Synth-Pop 6",
+        "slug": "synth-pop-6",
+        "tag": "Synth-Pop",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/5b59c09f-05ec-4300-b4fe-56f37d91401d/synth-pop-6.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "6de6a34a-f740-47e0-9a57-e35009ff63c1",
+        "name": "Punk Rock 1",
+        "slug": "punk-rock-1",
+        "tag": "Punk Rock",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/6de6a34a-f740-47e0-9a57-e35009ff63c1/punk-rock-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "a2ccfd8b-befe-475f-9011-d51073197913",
+        "name": "Punk Rock 2",
+        "slug": "punk-rock-2",
+        "tag": "Punk Rock",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/a2ccfd8b-befe-475f-9011-d51073197913/punk-rock-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "b8ee993c-79b3-46a7-b5c5-48fe54ef530a",
+        "name": "Punk Rock 3",
+        "slug": "punk-rock-3",
+        "tag": "Punk Rock",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/b8ee993c-79b3-46a7-b5c5-48fe54ef530a/punk-rock-3.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "b6b2b9ef-5a60-4816-98c4-75fcf0e25871",
+        "name": "Punk Rock 4",
+        "slug": "punk-rock-4",
+        "tag": "Punk Rock",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/b6b2b9ef-5a60-4816-98c4-75fcf0e25871/punk-rock-4.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "693c09a7-b256-433a-a735-ed5ca27347d7",
+        "name": "Punk Rock 5",
+        "slug": "punk-rock-5",
+        "tag": "Punk Rock",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/693c09a7-b256-433a-a735-ed5ca27347d7/punk-rock-5.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "b4cde734-acf1-42c4-99fc-9754a3278400",
+        "name": "Alternative Rock 1",
+        "slug": "alternative-rock-1",
+        "tag": "Alternative Rock",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/b4cde734-acf1-42c4-99fc-9754a3278400/alternative-rock-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "f8585542-dda0-47b2-9a52-afab6f6f06af",
+        "name": "Alternative Rock 2",
+        "slug": "alternative-rock-2",
+        "tag": "Alternative Rock",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/f8585542-dda0-47b2-9a52-afab6f6f06af/alternative-rock-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "231fd4ba-755b-40f0-8275-7bb31c1de02d",
+        "name": "Alternative Rock 3",
+        "slug": "alternative-rock-3",
+        "tag": "Alternative Rock",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/231fd4ba-755b-40f0-8275-7bb31c1de02d/alternative-rock-3.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "41df9490-c02b-4a17-affd-7d72bd90a597",
+        "name": "Alternative Rock 4",
+        "slug": "alternative-rock-4",
+        "tag": "Alternative Rock",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/41df9490-c02b-4a17-affd-7d72bd90a597/alternative-rock-4.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "83963330-fb97-4eba-8aaf-e4e7a890f8d0",
+        "name": "Alternative Rock 5",
+        "slug": "alternative-rock-5",
+        "tag": "Alternative Rock",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/83963330-fb97-4eba-8aaf-e4e7a890f8d0/alternative-rock-5.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "ed45449a-214d-4bc3-8b65-03410ec83785",
+        "name": "Alternative Rock 6",
+        "slug": "alternative-rock-6",
+        "tag": "Alternative Rock",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/ed45449a-214d-4bc3-8b65-03410ec83785/alternative-rock-6.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "91388949-c994-419b-8f61-9aa18eaaed45",
+        "name": "Hip-Hop (Trap) 1",
+        "slug": "hip-hop-trap-1",
+        "tag": "Hip-Hop (Trap)",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/91388949-c994-419b-8f61-9aa18eaaed45/hip-hop-trap-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "48bbec17-13d3-4555-8472-3f3e6efbecd3",
+        "name": "Hip-Hop (Trap) 2",
+        "slug": "hip-hop-trap-2",
+        "tag": "Hip-Hop (Trap)",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/48bbec17-13d3-4555-8472-3f3e6efbecd3/hip-hop-trap-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "3c7f7b4e-b0ca-4bf7-ba4e-08b10432415e",
+        "name": "Hip-Hop (Trap) 3",
+        "slug": "hip-hop-trap-3",
+        "tag": "Hip-Hop (Trap)",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/3c7f7b4e-b0ca-4bf7-ba4e-08b10432415e/hip-hop-trap-3.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "9cbd2a2b-0f50-49b9-850b-4f59f05a26b9",
+        "name": "Hip-Hop (Trap) 4",
+        "slug": "hip-hop-trap-4",
+        "tag": "Hip-Hop (Trap)",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/9cbd2a2b-0f50-49b9-850b-4f59f05a26b9/hip-hop-trap-4.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "4e38e2fa-eab4-4873-b951-4c7418276c38",
+        "name": "Lo-Fi Hip-Hop 1",
+        "slug": "lo-fi-hip-hop-1",
+        "tag": "Lo-Fi Hip-Hop",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/4e38e2fa-eab4-4873-b951-4c7418276c38/lo-fi-hip-hop-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "1ec28a6f-8f23-4424-bce3-85ed1a38cda4",
+        "name": "Lo-Fi Hip-Hop 2",
+        "slug": "lo-fi-hip-hop-2",
+        "tag": "Lo-Fi Hip-Hop",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/1ec28a6f-8f23-4424-bce3-85ed1a38cda4/lo-fi-hip-hop-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "b7339a50-b5d2-4a23-81f6-d535a8f3a055",
+        "name": "Smooth Jazz 1",
+        "slug": "smooth-jazz-1",
+        "tag": "Jazz",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/b7339a50-b5d2-4a23-81f6-d535a8f3a055/smooth-jazz-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "757d0568-9241-4daa-b373-84e898768d2e",
+        "name": "Smooth Jazz 2",
+        "slug": "smooth-jazz-2",
+        "tag": "Jazz",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/757d0568-9241-4daa-b373-84e898768d2e/smooth-jazz-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "8dbdbb32-e798-4ae2-9449-2a3a9672cc98",
+        "name": "Smooth Jazz 3",
+        "slug": "smooth-jazz-3",
+        "tag": "Jazz",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/8dbdbb32-e798-4ae2-9449-2a3a9672cc98/smooth-jazz-3.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "e88b4da2-a090-404e-abab-b8082b58d96d",
+        "name": "Smooth Jazz 4",
+        "slug": "smooth-jazz-4",
+        "tag": "Jazz",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/e88b4da2-a090-404e-abab-b8082b58d96d/smooth-jazz-4.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "ceb6ab3c-27ec-45f6-808e-84c3ea83930a",
+        "name": "Smooth Jazz 5",
+        "slug": "smooth-jazz-5",
+        "tag": "Jazz",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/ceb6ab3c-27ec-45f6-808e-84c3ea83930a/smooth-jazz-5.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "5abf3dcf-5d81-458d-b69b-eb7efd9dc9db",
+        "name": "Smooth Jazz 6",
+        "slug": "smooth-jazz-6",
+        "tag": "Jazz",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/5abf3dcf-5d81-458d-b69b-eb7efd9dc9db/smooth-jazz-6.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "ea8e1fc2-f4df-45c9-87d6-f5c41b423d59",
+        "name": "Jazz (Big Band) 1",
+        "slug": "jazz-big-band-1",
+        "tag": "Jazz",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/ea8e1fc2-f4df-45c9-87d6-f5c41b423d59/jazz-big-band-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "bb5210d2-ee0d-4270-a1a4-7142c0dad10c",
+        "name": "Jazz (Big Band) 2",
+        "slug": "jazz-big-band-2",
+        "tag": "Jazz",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/bb5210d2-ee0d-4270-a1a4-7142c0dad10c/jazz-big-band-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "5b92aea7-823d-4e91-a2da-3dacb8b6223c",
+        "name": "Jazz (Big Band) 3",
+        "slug": "jazz-big-band-3",
+        "tag": "Jazz",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/5b92aea7-823d-4e91-a2da-3dacb8b6223c/jazz-big-band-3.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "0c77e738-32e3-46a2-a80d-309194ec8c73",
+        "name": "Jazz (Big Band) 4",
+        "slug": "jazz-big-band-4",
+        "tag": "Jazz",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/0c77e738-32e3-46a2-a80d-309194ec8c73/jazz-big-band-4.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "d544a594-dabb-4a19-88d3-853160dd0d3c",
+        "name": "Jazz (Fusion) 1",
+        "slug": "jazz-fusion-1",
+        "tag": "Jazz",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/d544a594-dabb-4a19-88d3-853160dd0d3c/jazz-fusion-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "ff7b3083-5fd8-42fe-9e4f-e258d293ad59",
+        "name": "Jazz (Fusion) 2",
+        "slug": "jazz-fusion-2",
+        "tag": "Jazz",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/ff7b3083-5fd8-42fe-9e4f-e258d293ad59/jazz-fusion-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "bc75dc97-49f5-4181-a1e2-a9b6c0684a51",
+        "name": "Jazz (Fusion) 3",
+        "slug": "jazz-fusion-3",
+        "tag": "Jazz",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/bc75dc97-49f5-4181-a1e2-a9b6c0684a51/jazz-fusion-3.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "a03b2d64-e15b-4450-85d9-28e9d0d58974",
+        "name": "Jazz (Fusion) 4",
+        "slug": "jazz-fusion-4",
+        "tag": "Jazz",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/a03b2d64-e15b-4450-85d9-28e9d0d58974/jazz-fusion-4.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "feb8383d-b48b-4de8-a412-1fda2b0174ad",
+        "name": "Classical (Baroque) 1",
+        "slug": "classical-baroque-1",
+        "tag": "Classical",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/feb8383d-b48b-4de8-a412-1fda2b0174ad/classical-baroque-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "22278035-d987-458d-b8ec-5aa228b9ead9",
+        "name": "Classical (Baroque) 2",
+        "slug": "classical-baroque-2",
+        "tag": "Classical",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/22278035-d987-458d-b8ec-5aa228b9ead9/classical-baroque-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "6956af80-47d2-4fb0-b5ee-a91f8b5e5ac2",
+        "name": "Classical (Baroque) 3",
+        "slug": "classical-baroque-3",
+        "tag": "Classical",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/6956af80-47d2-4fb0-b5ee-a91f8b5e5ac2/classical-baroque-3.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "2230b18c-4aea-48e4-bbf8-c6f31bc7dd32",
+        "name": "Classical (Baroque) 4",
+        "slug": "classical-baroque-4",
+        "tag": "Classical",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/2230b18c-4aea-48e4-bbf8-c6f31bc7dd32/classical-baroque-4.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "12653d70-316f-4b4d-984e-3aee804c3bbf",
+        "name": "Classical (Romantic) 1",
+        "slug": "classical-romantic-1",
+        "tag": "Contemporary Classical",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/12653d70-316f-4b4d-984e-3aee804c3bbf/classical-romantic-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "708fcc96-e299-46a7-9062-6f7aad0c08c6",
+        "name": "Classical (Romantic) 2",
+        "slug": "classical-romantic-2",
+        "tag": "Contemporary Classical",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/708fcc96-e299-46a7-9062-6f7aad0c08c6/classical-romantic-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "210bceb2-c087-495c-89fc-eb0455240219",
+        "name": "Classical (Romantic) 3",
+        "slug": "classical-romantic-3",
+        "tag": "Contemporary Classical",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/210bceb2-c087-495c-89fc-eb0455240219/classical-romantic-3.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "be3a98f4-eae0-4433-9af3-d1d7d6868312",
+        "name": "Classical (Romantic) 4",
+        "slug": "classical-romantic-4",
+        "tag": "Contemporary Classical",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/be3a98f4-eae0-4433-9af3-d1d7d6868312/classical-romantic-4.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "00fe04bb-fda3-41d2-9dd8-bbf827ed4830",
+        "name": "Contemporary Classical 1",
+        "slug": "contemporary-classical-1",
+        "tag": "Classical",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/00fe04bb-fda3-41d2-9dd8-bbf827ed4830/contemporary-classical-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "7ec069e3-79d9-4365-8242-71537e357f60",
+        "name": "Contemporary Classical 2",
+        "slug": "contemporary-classical-2",
+        "tag": "Classical",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/7ec069e3-79d9-4365-8242-71537e357f60/contemporary-classical-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "34682bb9-7b2b-49a9-8c21-8cba92df6ee1",
+        "name": "Contemporary Classical 3",
+        "slug": "contemporary-classical-3",
+        "tag": "Classical",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/34682bb9-7b2b-49a9-8c21-8cba92df6ee1/contemporary-classical-3.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "45b92b1c-4373-44c5-bed7-cfc70a3e4f8a",
+        "name": "Contemporary Classical 4",
+        "slug": "contemporary-classical-4",
+        "tag": "Classical",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/45b92b1c-4373-44c5-bed7-cfc70a3e4f8a/contemporary-classical-4.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "0dca789a-7e51-41c3-85d1-942c6f2481de",
+        "name": "World Music (Traditional Folk) 1",
+        "slug": "world-music-traditional-folk-1",
+        "tag": "World Music",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/0dca789a-7e51-41c3-85d1-942c6f2481de/world-music-traditional-folk-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "55a323a8-ff26-4100-86e6-70b86e53a19d",
+        "name": "World Music (Traditional Folk) 2",
+        "slug": "world-music-traditional-folk-2",
+        "tag": "World Music",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/55a323a8-ff26-4100-86e6-70b86e53a19d/world-music-traditional-folk-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "3db7e28e-331c-48dd-87dd-d02b2eb1b947",
+        "name": "World Music (Traditional Folk) 3",
+        "slug": "world-music-traditional-folk-3",
+        "tag": "World Music",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/3db7e28e-331c-48dd-87dd-d02b2eb1b947/world-music-traditional-folk-3.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "ad2a931f-100d-4122-9356-b4c53b4a143e",
+        "name": "World Music (Traditional Folk) 4",
+        "slug": "world-music-traditional-folk-4",
+        "tag": "World Music",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/ad2a931f-100d-4122-9356-b4c53b4a143e/world-music-traditional-folk-4.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "962d7a60-e779-4cfd-b132-4b0242d2732d",
+        "name": "World Music (Traditional Folk) 5",
+        "slug": "world-music-traditional-folk-5",
+        "tag": "World Music",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/962d7a60-e779-4cfd-b132-4b0242d2732d/world-music-traditional-folk-5.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "00bb9989-69cd-46bc-9cba-4eb6e4af5d1c",
+        "name": "World Music (Afrobeat) 1",
+        "slug": "world-music-afrobeat-1",
+        "tag": "World Music",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/00bb9989-69cd-46bc-9cba-4eb6e4af5d1c/world-music-afrobeat-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "83aac712-4041-49a7-ab09-1d29e46b410f",
+        "name": "World Music (Afrobeat) 2",
+        "slug": "world-music-afrobeat-2",
+        "tag": "World Music",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/83aac712-4041-49a7-ab09-1d29e46b410f/world-music-afrobeat-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "672d8834-ba8a-4903-abd6-72f5fae7069c",
+        "name": "World Music (Latin) 1",
+        "slug": "world-music-latin-1",
+        "tag": "World Music",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/672d8834-ba8a-4903-abd6-72f5fae7069c/world-music-latin-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "ffca4704-0c16-4952-867f-19081d9f4db3",
+        "name": "World Music (Latin) 2",
+        "slug": "world-music-latin-2",
+        "tag": "World Music",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/ffca4704-0c16-4952-867f-19081d9f4db3/world-music-latin-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "3fdcb696-c7ad-4275-b777-9dc9ce1765b2",
+        "name": "World Music (Latin) 3",
+        "slug": "world-music-latin-3",
+        "tag": "World Music",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/3fdcb696-c7ad-4275-b777-9dc9ce1765b2/world-music-latin-3.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "12717720-bf83-4571-b4e7-082ece6c1e42",
+        "name": "World Music (Latin) 4",
+        "slug": "world-music-latin-4",
+        "tag": "World Music",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/12717720-bf83-4571-b4e7-082ece6c1e42/world-music-latin-4.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "adccfc34-a6f8-413a-b3f0-bbde6311efa1",
+        "name": "Experimental (Avant-Garde) 1",
+        "slug": "experimental-avant-garde-1",
+        "tag": "Experimental",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/adccfc34-a6f8-413a-b3f0-bbde6311efa1/experimental-avant-garde-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "dde6bb13-4c31-42a8-8b81-d1f1b8eec7fa",
+        "name": "Experimental (Avant-Garde) 2",
+        "slug": "experimental-avant-garde-2",
+        "tag": "Experimental",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/dde6bb13-4c31-42a8-8b81-d1f1b8eec7fa/experimental-avant-garde-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "8ab2981c-51b4-42f5-9e79-0bc413523f61",
+        "name": "Experimental (Avant-Garde) 3",
+        "slug": "experimental-avant-garde-3",
+        "tag": "Experimental",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/8ab2981c-51b4-42f5-9e79-0bc413523f61/experimental-avant-garde-3.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "26321104-b94a-4edd-80d2-37886adc6d1d",
+        "name": "Experimental (Avant-Garde) 4",
+        "slug": "experimental-avant-garde-4",
+        "tag": "Experimental",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/26321104-b94a-4edd-80d2-37886adc6d1d/experimental-avant-garde-4.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "2626404d-0be6-44b2-9a56-5318c2b9ab21",
+        "name": "Experimental (Glitch) 1",
+        "slug": "experimental-glitch-1",
+        "tag": "Experimental",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/2626404d-0be6-44b2-9a56-5318c2b9ab21/experimental-glitch-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "13740472-d0fb-49f7-b8bf-4cd2783d0a91",
+        "name": "Experimental (Glitch) 2",
+        "slug": "experimental-glitch-2",
+        "tag": "Experimental",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/13740472-d0fb-49f7-b8bf-4cd2783d0a91/experimental-glitch-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "7b9e1fe0-e384-44b1-8c38-ac2f061b909f",
+        "name": "Experimental (Glitch) 3",
+        "slug": "experimental-glitch-3",
+        "tag": "Experimental",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/7b9e1fe0-e384-44b1-8c38-ac2f061b909f/experimental-glitch-3.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "107368e9-d08f-47fa-a3bf-78603e825ca8",
+        "name": "Experimental (Glitch) 4",
+        "slug": "experimental-glitch-4",
+        "tag": "Experimental",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/107368e9-d08f-47fa-a3bf-78603e825ca8/experimental-glitch-4.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "18939909-2086-4846-8f79-0c53f61c7c07",
+        "name": "Experimental (Noise) 1",
+        "slug": "experimental-noise-1",
+        "tag": "Experimental",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/18939909-2086-4846-8f79-0c53f61c7c07/experimental-noise-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "a0fa4cf6-c87d-4e0f-b923-f84950a329d2",
+        "name": "Experimental (Noise) 2",
+        "slug": "experimental-noise-2",
+        "tag": "Experimental",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/a0fa4cf6-c87d-4e0f-b923-f84950a329d2/experimental-noise-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "973bfdbb-9b1a-4d5f-926f-c99b36f2eea6",
+        "name": "Metal Rock 1",
+        "slug": "metal-rock-1",
+        "tag": "Metal Rock",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/973bfdbb-9b1a-4d5f-926f-c99b36f2eea6/metal-rock-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "8ce49399-584e-468a-83ba-9d2be223d119",
+        "name": "Metal Rock 2",
+        "slug": "metal-rock-2",
+        "tag": "Metal Rock",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/8ce49399-584e-468a-83ba-9d2be223d119/metal-rock-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "104bd44e-2754-4a58-bdac-b7781337018e",
+        "name": "Metal Rock 3",
+        "slug": "metal-rock-3",
+        "tag": "Metal Rock",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/104bd44e-2754-4a58-bdac-b7781337018e/metal-rock-3.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "983dc02f-49f0-4ef2-9708-0472cfa74e76",
+        "name": "Metal Rock 4",
+        "slug": "metal-rock-4",
+        "tag": "Metal Rock",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/983dc02f-49f0-4ef2-9708-0472cfa74e76/metal-rock-4.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "29b5fb37-127c-4e84-ac5f-1c43f22a5798",
+        "name": "Stoner Rock 1",
+        "slug": "stoner-rock-1",
+        "tag": "Stoner Rock",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/29b5fb37-127c-4e84-ac5f-1c43f22a5798/stoner-rock-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "3fe2f6e7-f2b9-49c2-9faa-8320ec7e6e25",
+        "name": "Stoner Rock 2",
+        "slug": "stoner-rock-2",
+        "tag": "Stoner Rock",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/3fe2f6e7-f2b9-49c2-9faa-8320ec7e6e25/stoner-rock-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "a0332dd3-51f7-4a87-bf6c-d4c3eadb9aaa",
+        "name": "Stoner Rock 3",
+        "slug": "stoner-rock-3",
+        "tag": "Stoner Rock",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/a0332dd3-51f7-4a87-bf6c-d4c3eadb9aaa/stoner-rock-3.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "e2030c08-e937-45bf-ac5e-503d0471929f",
+        "name": "Stoner Rock 4",
+        "slug": "stoner-rock-4",
+        "tag": "Stoner Rock",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/e2030c08-e937-45bf-ac5e-503d0471929f/stoner-rock-4.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "7685ce5e-7c64-4c86-90e7-ee2c6c818b7d",
+        "name": "Stoner Rock 5",
+        "slug": "stoner-rock-5",
+        "tag": "Stoner Rock",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/7685ce5e-7c64-4c86-90e7-ee2c6c818b7d/stoner-rock-5.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "c400b7f3-47c3-47c2-8f35-14fa53ac8a3a",
+        "name": "Stoner Rock 6",
+        "slug": "stoner-rock-6",
+        "tag": "Stoner Rock",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/c400b7f3-47c3-47c2-8f35-14fa53ac8a3a/stoner-rock-6.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "fee5ace1-6906-426e-a0c9-ea3d6a1ef3cd",
+        "name": "Ska 1",
+        "slug": "ska-1",
+        "tag": "Ska",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/fee5ace1-6906-426e-a0c9-ea3d6a1ef3cd/ska-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "221f7b71-de24-496e-83fd-3ef08ea3948a",
+        "name": "Ska 2",
+        "slug": "ska-2",
+        "tag": "Ska",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/221f7b71-de24-496e-83fd-3ef08ea3948a/ska-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "5a77563b-3d24-40f0-b6b5-878f33e34766",
+        "name": "Ska 3",
+        "slug": "ska-3",
+        "tag": "Ska",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/5a77563b-3d24-40f0-b6b5-878f33e34766/ska-3.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "24d547be-388c-437e-abae-db6d117e2ad3",
+        "name": "Ska 4",
+        "slug": "ska-4",
+        "tag": "Ska",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/24d547be-388c-437e-abae-db6d117e2ad3/ska-4.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "28040b57-5184-401c-a9c2-2e5d6625d4ba",
+        "name": "Ska 5",
+        "slug": "ska-5",
+        "tag": "Ska",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/28040b57-5184-401c-a9c2-2e5d6625d4ba/ska-5.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "e7b2fbcb-dc43-4695-8e9e-e341792192e0",
+        "name": "Ska 6",
+        "slug": "ska-6",
+        "tag": "Ska",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/e7b2fbcb-dc43-4695-8e9e-e341792192e0/ska-6.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "54cad9a8-a57a-4565-a5b1-699b7b7b1568",
+        "name": "Reggae 1",
+        "slug": "reggae-1",
+        "tag": "Reggae",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/54cad9a8-a57a-4565-a5b1-699b7b7b1568/reggae-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "db62426c-031c-428f-a337-fc3bc1c38c89",
+        "name": "Reggae 2",
+        "slug": "reggae-2",
+        "tag": "Reggae",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/db62426c-031c-428f-a337-fc3bc1c38c89/reggae-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "6ca6f948-5a77-4a62-89e1-5eddfc09fa38",
+        "name": "Reggae 3",
+        "slug": "reggae-3",
+        "tag": "Reggae",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/6ca6f948-5a77-4a62-89e1-5eddfc09fa38/reggae-3.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "c86faacd-92ac-4cda-a2e2-2de476175d14",
+        "name": "Reggae 4",
+        "slug": "reggae-4",
+        "tag": "Reggae",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/c86faacd-92ac-4cda-a2e2-2de476175d14/reggae-4.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "4013d80e-6f69-4584-aa67-87174ea5bd62",
+        "name": "Reggae 5",
+        "slug": "reggae-5",
+        "tag": "Reggae",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/4013d80e-6f69-4584-aa67-87174ea5bd62/reggae-5.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "c59dce11-79a5-4ba8-8ed7-28da1dfb3432",
+        "name": "Reggae 6",
+        "slug": "reggae-6",
+        "tag": "Reggae",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/c59dce11-79a5-4ba8-8ed7-28da1dfb3432/reggae-6.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "f69fce89-d665-49b2-87c6-af6291648665",
+        "name": "Dance Pop 1",
+        "slug": "dance-pop-1",
+        "tag": "Dance Pop",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/f69fce89-d665-49b2-87c6-af6291648665/dance-pop-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "80a2be8c-5788-45bf-9bbc-a1fc1765c986",
+        "name": "Dance Pop 2",
+        "slug": "dance-pop-2",
+        "tag": "Dance Pop",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/80a2be8c-5788-45bf-9bbc-a1fc1765c986/dance-pop-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "f587b4c1-d142-4c62-95fd-8101c9ea5d09",
+        "name": "Dance Pop 3",
+        "slug": "dance-pop-3",
+        "tag": "Dance Pop",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/f587b4c1-d142-4c62-95fd-8101c9ea5d09/dance-pop-3.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "a941259f-eaaf-44c4-95ec-f8dc3c1d3f3b",
+        "name": "Dance Pop 4",
+        "slug": "dance-pop-4",
+        "tag": "Dance Pop",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/a941259f-eaaf-44c4-95ec-f8dc3c1d3f3b/dance-pop-4.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "b77abee6-3913-402b-bafa-d3dbd343248e",
+        "name": "Dance Pop 5",
+        "slug": "dance-pop-5",
+        "tag": "Dance Pop",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/b77abee6-3913-402b-bafa-d3dbd343248e/dance-pop-5.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "d6e32ab4-bb0c-47ac-8bd1-f07f8f9b3ec4",
+        "name": "Dance Pop 6",
+        "slug": "dance-pop-6",
+        "tag": "Dance Pop",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/d6e32ab4-bb0c-47ac-8bd1-f07f8f9b3ec4/dance-pop-6.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "a935d8ef-7e49-43e5-be3d-ec0d176ff4ba",
+        "name": "RnB 1",
+        "slug": "rnb-1",
+        "tag": "RnB",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/a935d8ef-7e49-43e5-be3d-ec0d176ff4ba/rnb-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "1bbf5da2-7c7d-4523-8deb-6dd904ca9a59",
+        "name": "RnB 2",
+        "slug": "rnb-2",
+        "tag": "RnB",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/1bbf5da2-7c7d-4523-8deb-6dd904ca9a59/rnb-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "c7a14394-134e-4c6a-a942-4fc8dcb870f1",
+        "name": "RnB 3",
+        "slug": "rnb-3",
+        "tag": "RnB",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/c7a14394-134e-4c6a-a942-4fc8dcb870f1/rnb-3.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "b50883de-e9c0-479b-b9d1-e9b60f1a5ba3",
+        "name": "RnB 4",
+        "slug": "rnb-4",
+        "tag": "RnB",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/b50883de-e9c0-479b-b9d1-e9b60f1a5ba3/rnb-4.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "740e0443-b357-43ac-aca8-1a9a9beefd3e",
+        "name": "RnB 5",
+        "slug": "rnb-5",
+        "tag": "RnB",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/740e0443-b357-43ac-aca8-1a9a9beefd3e/rnb-5.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "a0086faf-012e-42ce-b7fc-1e7f45ee6a73",
+        "name": "RnB 6",
+        "slug": "rnb-6",
+        "tag": "RnB",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/a0086faf-012e-42ce-b7fc-1e7f45ee6a73/rnb-6.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "a60f849d-6aa3-4ea0-8963-60415d623d06",
+        "name": "Country Music 1",
+        "slug": "country-music-1",
+        "tag": "Country Music",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/a60f849d-6aa3-4ea0-8963-60415d623d06/country-music-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "a02f66b9-ff86-4e42-a775-c5c5d4857f24",
+        "name": "Country Music 2",
+        "slug": "country-music-2",
+        "tag": "Country Music",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/a02f66b9-ff86-4e42-a775-c5c5d4857f24/country-music-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "d154590b-6f7b-4d84-a9d8-132d94a41570",
+        "name": "Country Music 3",
+        "slug": "country-music-3",
+        "tag": "Country Music",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/d154590b-6f7b-4d84-a9d8-132d94a41570/country-music-3.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "e2468f3a-7adf-4ea5-8855-69a745dada64",
+        "name": "Country Music 4",
+        "slug": "country-music-4",
+        "tag": "Country Music",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/e2468f3a-7adf-4ea5-8855-69a745dada64/country-music-4.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "48f0a5eb-f5a1-4c02-96ef-61d205b1a2ac",
+        "name": "Country Music 5",
+        "slug": "country-music-5",
+        "tag": "Country Music",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/48f0a5eb-f5a1-4c02-96ef-61d205b1a2ac/country-music-5.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "a10f9a36-2a40-4893-9097-9ebab62a7ebf",
+        "name": "Country Music 6",
+        "slug": "country-music-6",
+        "tag": "Country Music",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/a10f9a36-2a40-4893-9097-9ebab62a7ebf/country-music-6.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "9ccc29ca-8a28-48ab-bb5e-ab51da18cee0",
+        "name": "Grunge 1",
+        "slug": "grunge-1",
+        "tag": "Grunge",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/9ccc29ca-8a28-48ab-bb5e-ab51da18cee0/grunge-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "e1e702f1-f20a-45f8-bfc0-f85c902bd698",
+        "name": "Grunge 2",
+        "slug": "grunge-2",
+        "tag": "Grunge",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/e1e702f1-f20a-45f8-bfc0-f85c902bd698/grunge-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "e36a2aed-ca8f-4963-b406-66a4438aa437",
+        "name": "Grunge 3",
+        "slug": "grunge-3",
+        "tag": "Grunge",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/e36a2aed-ca8f-4963-b406-66a4438aa437/grunge-3.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "6a68c7bb-94c6-4683-8b2a-7ba40e14a6ae",
+        "name": "Grunge 4",
+        "slug": "grunge-4",
+        "tag": "Grunge",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/6a68c7bb-94c6-4683-8b2a-7ba40e14a6ae/grunge-4.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "99109a58-fa12-4e2b-b6a4-17273a91823f",
+        "name": "Grunge 5",
+        "slug": "grunge-5",
+        "tag": "Grunge",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/99109a58-fa12-4e2b-b6a4-17273a91823f/grunge-5.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "c16ae359-4929-4ea6-a74b-e661a71f77e7",
+        "name": "Grunge 6",
+        "slug": "grunge-6",
+        "tag": "Grunge",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/c16ae359-4929-4ea6-a74b-e661a71f77e7/grunge-6.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "58ec50aa-e2ac-405a-aa60-5aaaae06d7be",
+        "name": "Indie Rock 1",
+        "slug": "indie-rock-1",
+        "tag": "Indie Rock",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/58ec50aa-e2ac-405a-aa60-5aaaae06d7be/indie-rock-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "f1b05cf9-6318-4542-9490-fb3188458e53",
+        "name": "Indie Rock 2",
+        "slug": "indie-rock-2",
+        "tag": "Indie Rock",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/f1b05cf9-6318-4542-9490-fb3188458e53/indie-rock-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "c2c14695-2bb6-496b-ba0b-a52dd27d2917",
+        "name": "Indie Rock 3",
+        "slug": "indie-rock-3",
+        "tag": "Indie Rock",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/c2c14695-2bb6-496b-ba0b-a52dd27d2917/indie-rock-3.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "9623a514-2fb3-4c99-bc9a-73765be45b0a",
+        "name": "Indie Rock 4",
+        "slug": "indie-rock-4",
+        "tag": "Indie Rock",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/9623a514-2fb3-4c99-bc9a-73765be45b0a/indie-rock-4.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "453d2b68-2f58-445a-859f-2e9ec32b0688",
+        "name": "Indie Rock 5",
+        "slug": "indie-rock-5",
+        "tag": "Indie Rock",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/453d2b68-2f58-445a-859f-2e9ec32b0688/indie-rock-5.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "3d23045e-8e6a-4222-a0be-9aab0c578832",
+        "name": "Indie Rock 6",
+        "slug": "indie-rock-6",
+        "tag": "Indie Rock",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/3d23045e-8e6a-4222-a0be-9aab0c578832/indie-rock-6.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "4027b6f6-655d-4878-913b-076e3f5301f9",
+        "name": "Bluegrass 1",
+        "slug": "bluegrass-1",
+        "tag": "Bluegrass",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/4027b6f6-655d-4878-913b-076e3f5301f9/bluegrass-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "7df1178e-c50d-4afd-88ae-5b676833a3f1",
+        "name": "Bluegrass 2",
+        "slug": "bluegrass-2",
+        "tag": "Bluegrass",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/7df1178e-c50d-4afd-88ae-5b676833a3f1/bluegrass-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "01632fb0-f974-48a9-acb9-5b97b2502859",
+        "name": "Bluegrass 3",
+        "slug": "bluegrass-3",
+        "tag": "Bluegrass",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/01632fb0-f974-48a9-acb9-5b97b2502859/bluegrass-3.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "a092e9f9-2f18-42f9-9f04-862a00d1083e",
+        "name": "Bluegrass 4",
+        "slug": "bluegrass-4",
+        "tag": "Bluegrass",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/a092e9f9-2f18-42f9-9f04-862a00d1083e/bluegrass-4.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "125c27db-afeb-4935-9e86-72879fd9a559",
+        "name": "Bluegrass 5",
+        "slug": "bluegrass-5",
+        "tag": "Bluegrass",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/125c27db-afeb-4935-9e86-72879fd9a559/bluegrass-5.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "c527a064-8559-478e-a3cc-8b043e21f8a0",
+        "name": "Bluegrass 6",
+        "slug": "bluegrass-6",
+        "tag": "Bluegrass",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/c527a064-8559-478e-a3cc-8b043e21f8a0/bluegrass-6.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "632040b1-98ce-4ab9-955c-e11b3b30e70b",
+        "name": "New Wave 1",
+        "slug": "new-wave-1",
+        "tag": "New Wave",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/632040b1-98ce-4ab9-955c-e11b3b30e70b/new-wave-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "4d0391fc-78bc-49fc-8a8d-373285a98c08",
+        "name": "New Wave 2",
+        "slug": "new-wave-2",
+        "tag": "New Wave",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/4d0391fc-78bc-49fc-8a8d-373285a98c08/new-wave-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "57f3b987-d8f8-45d0-b766-b6ad9a9b3ec3",
+        "name": "New Wave 3",
+        "slug": "new-wave-3",
+        "tag": "New Wave",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/57f3b987-d8f8-45d0-b766-b6ad9a9b3ec3/new-wave-3.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "60abd267-12a8-40fd-9807-b2a0d6dd1a96",
+        "name": "New Wave 4",
+        "slug": "new-wave-4",
+        "tag": "New Wave",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/60abd267-12a8-40fd-9807-b2a0d6dd1a96/new-wave-4.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "ed625c37-ae49-4497-b465-31e8af9c422d",
+        "name": "New Wave 5",
+        "slug": "new-wave-5",
+        "tag": "New Wave",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/ed625c37-ae49-4497-b465-31e8af9c422d/new-wave-5.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "98f289e2-9887-4cb6-bff3-e0e54393dd5d",
+        "name": "New Wave 6",
+        "slug": "new-wave-6",
+        "tag": "New Wave",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/98f289e2-9887-4cb6-bff3-e0e54393dd5d/new-wave-6.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "384f1a53-7dcd-46cc-84d2-82befd700736",
+        "name": "Hard Rock 1",
+        "slug": "hard-rock-1",
+        "tag": "Hard Rock",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/384f1a53-7dcd-46cc-84d2-82befd700736/hard-rock-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "301d8123-3dcb-4ca8-aed1-7625aec3d3f5",
+        "name": "Hard Rock 2",
+        "slug": "hard-rock-2",
+        "tag": "Hard Rock",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/301d8123-3dcb-4ca8-aed1-7625aec3d3f5/hard-rock-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "433c43c0-afba-4746-9c4f-194a8bf24d16",
+        "name": "Hard Rock 3",
+        "slug": "hard-rock-3",
+        "tag": "Hard Rock",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/433c43c0-afba-4746-9c4f-194a8bf24d16/hard-rock-3.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "a966b403-f2d5-48cd-882e-e8fed264cdca",
+        "name": "Hard Rock 4",
+        "slug": "hard-rock-4",
+        "tag": "Hard Rock",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/a966b403-f2d5-48cd-882e-e8fed264cdca/hard-rock-4.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "59924caf-5140-437a-aa40-41869b047979",
+        "name": "Hard Rock 5",
+        "slug": "hard-rock-5",
+        "tag": "Hard Rock",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/59924caf-5140-437a-aa40-41869b047979/hard-rock-5.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "c24869df-66fd-4262-a60f-8b0152bc2072",
+        "name": "Hard Rock 6",
+        "slug": "hard-rock-6",
+        "tag": "Hard Rock",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/c24869df-66fd-4262-a60f-8b0152bc2072/hard-rock-6.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "1193e3fd-1054-48a2-82d1-4c5493771f0d",
+        "name": "Easy Listening 1",
+        "slug": "easy-listening-1",
+        "tag": "Easy Listening",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/1193e3fd-1054-48a2-82d1-4c5493771f0d/easy-listening-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "739986f8-dba1-4c98-8b48-f29796f02ed8",
+        "name": "Easy Listening 2",
+        "slug": "easy-listening-2",
+        "tag": "Easy Listening",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/739986f8-dba1-4c98-8b48-f29796f02ed8/easy-listening-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "026b28b9-2cad-44c3-9009-c52a1005241d",
+        "name": "Easy Listening 3",
+        "slug": "easy-listening-3",
+        "tag": "Easy Listening",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/026b28b9-2cad-44c3-9009-c52a1005241d/easy-listening-3.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "3e4d36f8-3c81-49a6-8cbc-30d58dfb44ff",
+        "name": "Easy Listening 4",
+        "slug": "easy-listening-4",
+        "tag": "Easy Listening",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/3e4d36f8-3c81-49a6-8cbc-30d58dfb44ff/easy-listening-4.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "17c7dda4-b80f-408a-937b-b8986b02dcfb",
+        "name": "Easy Listening 5",
+        "slug": "easy-listening-5",
+        "tag": "Easy Listening",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/17c7dda4-b80f-408a-937b-b8986b02dcfb/easy-listening-5.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "a63f646e-3a5a-4b96-9635-4c636d37a6cd",
+        "name": "Jazz (Traditional_Dixieland) 1",
+        "slug": "jazz-traditional-dixieland-1",
+        "tag": "Jazz",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/a63f646e-3a5a-4b96-9635-4c636d37a6cd/jazz-traditional-dixieland-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "594e6a7c-cc2b-4b5a-9429-344e4e7a7598",
+        "name": "Jazz (Traditional_Dixieland) 2",
+        "slug": "jazz-traditional-dixieland-2",
+        "tag": "Jazz",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/594e6a7c-cc2b-4b5a-9429-344e4e7a7598/jazz-traditional-dixieland-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "4a6c3835-b5fc-4d68-86f9-80eb64927949",
+        "name": "Jazz (Traditional_Dixieland) 3",
+        "slug": "jazz-traditional-dixieland-3",
+        "tag": "Jazz",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/4a6c3835-b5fc-4d68-86f9-80eb64927949/jazz-traditional-dixieland-3.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "e17a3eba-1e1c-4369-b5b3-ffe0836ab0d5",
+        "name": "Jazz (Traditional_Dixieland) 4",
+        "slug": "jazz-traditional-dixieland-4",
+        "tag": "Jazz",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/e17a3eba-1e1c-4369-b5b3-ffe0836ab0d5/jazz-traditional-dixieland-4.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "2d9494d3-5cd0-4c6a-8309-5a6b507378c1",
+        "name": "Jazz (Traditional_Dixieland) 5",
+        "slug": "jazz-traditional-dixieland-5",
+        "tag": "Jazz",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/2d9494d3-5cd0-4c6a-8309-5a6b507378c1/jazz-traditional-dixieland-5.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "dc1acb2d-b3b2-40ba-b3ad-4566ba40fcc5",
+        "name": "Jazz (Traditional_Dixieland) 6",
+        "slug": "jazz-traditional-dixieland-6",
+        "tag": "Jazz",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/dc1acb2d-b3b2-40ba-b3ad-4566ba40fcc5/jazz-traditional-dixieland-6.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "f0a1f43f-0d43-40aa-87b1-a97a2eb208ea",
+        "name": "Zydeco 1",
+        "slug": "zydeco-1",
+        "tag": "Zydeco",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/f0a1f43f-0d43-40aa-87b1-a97a2eb208ea/zydeco-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "07cce711-4bab-4d31-8d9e-7ba84dd2693f",
+        "name": "Zydeco 2",
+        "slug": "zydeco-2",
+        "tag": "Zydeco",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/07cce711-4bab-4d31-8d9e-7ba84dd2693f/zydeco-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "001861f2-0082-4cf2-8daa-75956b14a64f",
+        "name": "Gospel 1",
+        "slug": "gospel-1",
+        "tag": "Gospel",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/001861f2-0082-4cf2-8daa-75956b14a64f/gospel-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "a4e960e1-def6-4ea8-b525-ce574739cc2c",
+        "name": "Gospel 2",
+        "slug": "gospel-2",
+        "tag": "Gospel",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/a4e960e1-def6-4ea8-b525-ce574739cc2c/gospel-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "9cd6198d-df98-4ea4-842e-2ca39657aaf8",
+        "name": "Gospel 3",
+        "slug": "gospel-3",
+        "tag": "Gospel",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/9cd6198d-df98-4ea4-842e-2ca39657aaf8/gospel-3.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "b883ec74-1870-4c6b-8074-aecb181eb465",
+        "name": "Gospel 4",
+        "slug": "gospel-4",
+        "tag": "Gospel",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/b883ec74-1870-4c6b-8074-aecb181eb465/gospel-4.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "98b47523-ee8a-4e21-ac46-e63cd3409118",
+        "name": "Bounce 1",
+        "slug": "bounce-1",
+        "tag": "Bounce",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/98b47523-ee8a-4e21-ac46-e63cd3409118/bounce-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "9a02bd27-4cd7-4a95-b695-73e893cabe67",
+        "name": "Bounce 2",
+        "slug": "bounce-2",
+        "tag": "Bounce",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/9a02bd27-4cd7-4a95-b695-73e893cabe67/bounce-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "894f373c-7153-46a6-a73d-07e8d46f0676",
+        "name": "New Orleans Brass Band 1",
+        "slug": "new-orleans-brass-band-1",
+        "tag": "New Orleans Brass Band",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/894f373c-7153-46a6-a73d-07e8d46f0676/new-orleans-brass-band-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "58b25551-8976-4dad-ab2a-b2e845dbdc48",
+        "name": "New Orleans Brass Band 2",
+        "slug": "new-orleans-brass-band-2",
+        "tag": "New Orleans Brass Band",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/58b25551-8976-4dad-ab2a-b2e845dbdc48/new-orleans-brass-band-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "c274c40f-d88d-45e4-869a-0e78cfbc8909",
+        "name": "New Orleans Brass Band 3",
+        "slug": "new-orleans-brass-band-3",
+        "tag": "New Orleans Brass Band",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/c274c40f-d88d-45e4-869a-0e78cfbc8909/new-orleans-brass-band-3.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "0c263652-a5b8-4fd5-a517-39e748716c40",
+        "name": "New Orleans Brass Band 4",
+        "slug": "new-orleans-brass-band-4",
+        "tag": "New Orleans Brass Band",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/0c263652-a5b8-4fd5-a517-39e748716c40/new-orleans-brass-band-4.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "30586610-7381-4231-95f7-dd03a58b5a94",
+        "name": "New Orleans Rhythm and Blues 1",
+        "slug": "new-orleans-rhythm-and-blues-1",
+        "tag": "New Orleans Rhythm and Blues",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/30586610-7381-4231-95f7-dd03a58b5a94/new-orleans-rhythm-and-blues-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "aa1293a6-60a6-4c47-aadf-66dfef3755e5",
+        "name": "Summer Nights Tropical House Music",
+        "slug": "summer-nights-tropical-house-music-121570",
+        "tag": "miscellaneous",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/aa1293a6-60a6-4c47-aadf-66dfef3755e5/summer-nights-tropical-house-music-121570.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "cfbd0368-3199-4b5e-a629-ddff18431f96",
+        "name": "Spy Always Dies Along",
+        "slug": "spy-always-dies-along-93740",
+        "tag": "miscellaneous",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/cfbd0368-3199-4b5e-a629-ddff18431f96/spy-always-dies-along-93740.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "0db8248d-5831-44c2-a2d0-bc2f450ecdc4",
+        "name": "Soft Inspirational Piano",
+        "slug": "soft-inspirational-piano-153643",
+        "tag": "miscellaneous",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/0db8248d-5831-44c2-a2d0-bc2f450ecdc4/soft-inspirational-piano-153643.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "8cb20404-4815-40cc-bfa2-f51380e1297c",
+        "name": "Sedative",
+        "slug": "sedative-110241",
+        "tag": "miscellaneous",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/8cb20404-4815-40cc-bfa2-f51380e1297c/sedative-110241.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "7808e145-ba8a-469d-b8d3-4bfbda6dc84e",
+        "name": "News Corporate",
+        "slug": "news-corporate-8307",
+        "tag": "miscellaneous",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/7808e145-ba8a-469d-b8d3-4bfbda6dc84e/news-corporate-8307.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "8a14ba93-80d8-4113-b9a1-b85b08defa5c",
+        "name": "News Background Music",
+        "slug": "news-background-music-144801",
+        "tag": "miscellaneous",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/8a14ba93-80d8-4113-b9a1-b85b08defa5c/news-background-music-144801.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "768a9d33-aa47-4890-a8b4-1a0e1c621f09",
+        "name": "News Background Music",
+        "slug": "motivational-corporate-short-110681",
+        "tag": "miscellaneous",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/768a9d33-aa47-4890-a8b4-1a0e1c621f09/motivational-corporate-short-110681.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "9696150f-c783-4bb0-b70f-c001117ab191",
+        "name": "Motivated to Create",
+        "slug": "motivated-to-create-15870",
+        "tag": "miscellaneous",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/9696150f-c783-4bb0-b70f-c001117ab191/motivated-to-create-15870.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "c947aa5f-ed5b-4f6f-991d-53da8928326f",
+        "name": "Inspiring Morning",
+        "slug": "inspiring-morning-141806",
+        "tag": "miscellaneous",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/c947aa5f-ed5b-4f6f-991d-53da8928326f/inspiring-morning-141806.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "cd28604b-cb3f-4ae5-adeb-092a82b50bd5",
+        "name": "Inspiring Future Electronic",
+        "slug": "inspiring-future-electronic-121789",
+        "tag": "miscellaneous",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/cd28604b-cb3f-4ae5-adeb-092a82b50bd5/inspiring-future-electronic-121789.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "79d03f12-6a66-4d7e-84c1-621542b143fb",
+        "name": "Inspired Ambient",
+        "slug": "inspired-ambient-141686",
+        "tag": "miscellaneous",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/79d03f12-6a66-4d7e-84c1-621542b143fb/inspired-ambient-141686.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "e6517afc-74fc-40a6-a29b-a9429738eac2",
+        "name": "Inspirational Motivation",
+        "slug": "inspirational-motivation-8302",
+        "tag": "miscellaneous",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/e6517afc-74fc-40a6-a29b-a9429738eac2/inspirational-motivation-8302.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "8dd9c3bb-ed03-4ea0-8ea2-0ff2b92af717",
+        "name": "Happy Today",
+        "slug": "happy-today-155815",
+        "tag": "miscellaneous",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/8dd9c3bb-ed03-4ea0-8ea2-0ff2b92af717/happy-today-155815.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "6062c798-f331-4e83-a34a-28714a9fe288",
+        "name": "Good Feelings",
+        "slug": "good-feelings-short-version-155847",
+        "tag": "miscellaneous",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/6062c798-f331-4e83-a34a-28714a9fe288/good-feelings-short-version-155847.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "9ba9a274-6cb6-4702-8655-ecdc548ba26d",
+        "name": "Epic Documentary Inspirational",
+        "slug": "epic-documentary-inspirational-7379",
+        "tag": "miscellaneous",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/9ba9a274-6cb6-4702-8655-ecdc548ba26d/epic-documentary-inspirational-7379.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "d4709bc3-81d2-4bc7-acdd-013b685d793c",
+        "name": "Energetic Rock Trailer",
+        "slug": "energetic-rock-trailer-140906",
+        "tag": "miscellaneous",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/d4709bc3-81d2-4bc7-acdd-013b685d793c/energetic-rock-trailer-140906.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "3b63b5f5-5ab6-4197-a833-3b14a8bc189c",
+        "name": "Embrace",
+        "slug": "embrace-12278",
+        "tag": "miscellaneous",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/3b63b5f5-5ab6-4197-a833-3b14a8bc189c/embrace-12278.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "b03a9764-4c03-46b0-9ea5-3d92798142d5",
+        "name": "Christmas Music",
+        "slug": "christmas-music-21048",
+        "tag": "miscellaneous",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/b03a9764-4c03-46b0-9ea5-3d92798142d5/christmas-music-21048.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "2b630373-095f-4855-9178-2c1bf56df225",
+        "name": "Calm Background Music",
+        "slug": "calm-background-for-video-121519",
+        "tag": "miscellaneous",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/2b630373-095f-4855-9178-2c1bf56df225/calm-background-for-video-121519.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "3affacbe-368d-47e4-8781-33531a2f0e02",
+        "name": "Battle of the Dragons",
+        "slug": "battle-of-the-dragons-8037",
+        "tag": "miscellaneous",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/3affacbe-368d-47e4-8781-33531a2f0e02/battle-of-the-dragons-8037.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "30067338-daf0-4f6f-813f-baa937484ce0",
+        "name": "African Sunset Motivational",
+        "slug": "african-sunset-motivational-upbeat-and-inspiring-130595",
+        "tag": "miscellaneous",
+        "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/samples/music/30067338-daf0-4f6f-813f-baa937484ce0/african-sunset-motivational-upbeat-and-inspiring-130595.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "677b744b-5d4b-4a7e-bc64-dd20cd418e48",
+        "name": "Easy Listening 1",
+        "slug": "easy-listening-1",
+        "tag": "Easy Listening",
+        "url": "https://syllaby-assets.sfo3.digitaloceanspaces.com/samples/music/677b744b-5d4b-4a7e-bc64-dd20cd418e48/easy-listening-1.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "e61cb27f-e0a7-44df-abd2-a98a44e360c3",
+        "name": "Easy Listening 2",
+        "slug": "easy-listening-2",
+        "tag": "Easy Listening",
+        "url": "https://syllaby-assets.sfo3.digitaloceanspaces.com/samples/music/e61cb27f-e0a7-44df-abd2-a98a44e360c3/easy-listening-2.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "dfa3e7ee-abee-4b37-9183-4933cccc37e4",
+        "name": "Easy Listening 3",
+        "slug": "easy-listening-3",
+        "tag": "Easy Listening",
+        "url": "https://syllaby-assets.sfo3.digitaloceanspaces.com/samples/music/dfa3e7ee-abee-4b37-9183-4933cccc37e4/easy-listening-3.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "09c9fbb1-3fa7-499e-ab45-588625c01841",
+        "name": "Easy Listening 4",
+        "slug": "easy-listening-4",
+        "tag": "Easy Listening",
+        "url": "https://syllaby-assets.sfo3.digitaloceanspaces.com/samples/music/09c9fbb1-3fa7-499e-ab45-588625c01841/easy-listening-4.mp3",
+        "is_stock": true
+    },
+    {
+        "id": "364b6d11-e218-478d-9291-27bf48ce01f8",
+        "name": "Easy Listening 5",
+        "slug": "easy-listening-5",
+        "tag": "Easy Listening",
+        "url": "https://syllaby-assets.sfo3.digitaloceanspaces.com/samples/music/364b6d11-e218-478d-9291-27bf48ce01f8/easy-listening-5.mp3",
+        "is_stock": true
+    }
+]

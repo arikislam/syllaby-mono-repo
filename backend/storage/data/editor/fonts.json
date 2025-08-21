@@ -1,0 +1,385 @@
+[
+  {
+    "type": "font",
+    "preview": {
+      "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/editor/fonts/montserrat.svg"
+    },
+    "key": "Montserrat",
+    "value": [
+      {
+        "id": "f99f8b78-14cd-487a-b6fc-4e4cfa684421",
+        "type": "text",
+        "time": 0,
+        "duration": 10,
+        "y": "50%",
+        "fill_color": "rgba(231,76,60,1)",
+        "text": "Montserrat",
+        "font_family": "Montserrat",
+        "font_weight": "700",
+        "font_size": "14 vmin"
+      }
+    ]
+  },
+  {
+    "type": "font",
+    "preview": {
+      "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/editor/fonts/comic-style.svg"
+    },
+    "key": "Comic Style",
+    "value": [
+      {
+        "id": "a8410c97-c885-4898-ad58-ddbd46cfae63",
+        "type": "text",
+        "time": 0,
+        "duration": 10,
+        "y": "50%",
+        "fill_color": "rgba(52,73,94,1)",
+        "text": "Comic Style",
+        "font_family": "Urbanist",
+        "font_weight": "700",
+        "font_size": "14 vmin"
+      }
+    ]
+  },
+  {
+    "type": "font",
+    "preview": {
+      "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/editor/fonts/chewing-gum.svg"
+    },
+    "key": "Chewing Gum",
+    "value": [
+      {
+        "id": "8504d24a-0c7c-4eb7-93b6-deed268d7d12",
+        "type": "text",
+        "time": 0,
+        "duration": 10,
+        "y": "50%",
+        "fill_color": "rgba(255,72,165,1)",
+        "text": "Chewing Gum",
+        "font_family": "Chewy",
+        "font_size": "14 vmin"
+      }
+    ]
+  },
+  {
+    "type": "font",
+    "preview": {
+      "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/editor/fonts/yatra-one.svg"
+    },
+    "key": "Yatra One",
+    "value": [
+      {
+        "id": "15e2f3e3-d520-410a-b872-735be323f0d6",
+        "type": "text",
+        "time": 0,
+        "duration": 10,
+        "y": "50%",
+        "fill_color": "rgba(161,116,59,1)",
+        "text": "Yatra One",
+        "font_family": "Yatra One",
+        "font_size": "14 vmin"
+      }
+    ]
+  },
+  {
+    "type": "font",
+    "preview": {
+      "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/editor/fonts/archivo-black.svg"
+    },
+    "key": "Archivo Black",
+    "value": [
+      {
+        "id": "a6ad4161-94dd-44eb-8353-d8c45f6c7fc0",
+        "type": "text",
+        "time": 0,
+        "duration": 10,
+        "y": "50%",
+        "fill_color": "#c2c2fd",
+        "text": "Archivo Black",
+        "font_family": "Archivo Black",
+        "font_size": "14 vmin"
+      }
+    ]
+  },
+  {
+    "type": "font",
+    "preview": {
+      "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/editor/fonts/righteous.svg"
+    },
+    "key": "Righteous",
+    "value": [
+      {
+        "id": "a6ad4161-94dd-44eb-8353-d8c45f6c7fc0",
+        "type": "text",
+        "time": 0,
+        "duration": 10,
+        "y": "50%",
+        "fill_color": "rgba(61,220,151,1)",
+        "text": "Righteous",
+        "font_family": "Righteous",
+        "font_size": "14 vmin"
+      }
+    ]
+  },
+  {
+    "type": "font",
+    "preview": {
+      "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/editor/fonts/mythological.svg"
+    },
+    "key": "Mythological",
+    "value": [
+      {
+        "id": "143b6ac1-2e89-4bc0-b425-7474695439bf",
+        "type": "text",
+        "time": 0,
+        "duration": 10,
+        "y": "50%",
+        "fill_color": "rgba(212,175,55,1)",
+        "text": "Mythological",
+        "font_family": "Germania One",
+        "font_size": "14 vmin"
+      }
+    ]
+  },
+  {
+    "type": "font",
+    "preview": {
+      "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/editor/fonts/heavy.svg"
+    },
+    "key": "Heavy",
+    "value": [
+      {
+        "id": "efd8ab1a-0f8d-4601-8b84-8dae8d49f76b",
+        "type": "text",
+        "time": 0,
+        "duration": 10,
+        "y": "50%",
+        "fill_color": "rgba(255,69,0,1)",
+        "text": "Heavy",
+        "font_family": "Montserrat",
+        "font_weight": "900",
+        "font_size": "14 vmin"
+      }
+    ]
+  },
+  {
+    "type": "font",
+    "preview": {
+      "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/editor/fonts/bowling-alley.svg"
+    },
+    "key": "Bowling Alley",
+    "value": [
+      {
+        "id": "5617332a-6c45-42d1-a7e0-c2c981f0637b",
+        "type": "text",
+        "time": 0,
+        "duration": 10,
+        "y": "50%",
+        "fill_color": "rgba(0,255,255,1)",
+        "text": "Bowling Alley",
+        "font_family": "Bowlby One SC",
+        "font_size": "14 vmin"
+      }
+    ]
+  },
+  {
+    "type": "font",
+    "preview": {
+      "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/editor/fonts/monotomy-vibes.svg"
+    },
+    "key": "Monotomy Vibes",
+    "value": [
+      {
+        "id": "101176c5-99b1-4444-81c0-f32c24302efd",
+        "type": "text",
+        "time": 0,
+        "duration": 10,
+        "y": "50%",
+        "fill_color": "rgba(255,255,255,1)",
+        "text": "Monotomy Vibes",
+        "font_family": "Zen Tokyo Zoo",
+        "font_size": "14 vmin"
+      }
+    ]
+  },
+  {
+    "type": "font",
+    "preview": {
+      "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/editor/fonts/pixels-work.svg"
+    },
+    "key": "Pixels Work",
+    "value": [
+      {
+        "id": "e81f758d-6476-4b7c-a4c7-3b5f71833090",
+        "type": "text",
+        "time": 0,
+        "duration": 10,
+        "y": "50%",
+        "fill_color": "rgba(255,0,255,1)",
+        "text": "Pixels Work",
+        "font_family": "Unifont",
+        "font_size": "14 vmin"
+      }
+    ]
+  },
+  {
+    "type": "font",
+    "preview": {
+      "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/editor/fonts/fairy-tale.svg"
+    },
+    "key": "Fairy Tale",
+    "value": [
+      {
+        "id": "0e58c62d-3a8e-454c-bc02-ad5f6d5777da",
+        "type": "text",
+        "time": 0,
+        "duration": 10,
+        "y": "50%",
+        "fill_color": "rgba(155,89,182,1)",
+        "text": "Fairy Tale",
+        "font_family": "Twinkle Star",
+        "font_size": "14 vmin"
+      }
+    ]
+  },
+  {
+    "type": "font",
+    "preview": {
+      "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/editor/fonts/wild-west-showdown.svg"
+    },
+    "key": "Wild West Showdown",
+    "value": [
+      {
+        "id": "10e7445b-4261-4907-b710-3a08699b8e45",
+        "type": "text",
+        "time": 0,
+        "duration": 10,
+        "y": "50%",
+        "fill_color": "rgba(244,164,96,1)",
+        "text": "Wild West \n Showdown",
+        "font_family": "Ultra",
+        "font_size": "14 vmin"
+      }
+    ]
+  },
+  {
+    "type": "font",
+    "preview": {
+      "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/editor/fonts/peace.svg"
+    },
+    "key": "Peace",
+    "value": [
+      {
+        "id": "10e7445b-4261-4907-b710-3a08699b8e45",
+        "type": "text",
+        "time": 0,
+        "duration": 10,
+        "y": "50%",
+        "fill_color": "rgba(221,160,221,1)",
+        "text": "Peace",
+        "font_family": "Indie Flower",
+        "font_size": "14 vmin"
+      }
+    ]
+  },
+  {
+    "type": "font",
+    "preview": {
+      "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/editor/fonts/happy-monkey.svg"
+    },
+    "key": "Happy Monkey",
+    "value": [
+      {
+        "id": "106439d8-1910-4c5a-8aae-6e89e40a6dc7",
+        "type": "text",
+        "time": 0,
+        "duration": 10,
+        "y": "50%",
+        "fill_color": "rgba(34,139,34,1)",
+        "text": "Happy Monkey",
+        "font_family": "Happy Monkey",
+        "font_size": "14 vmin"
+      }
+    ]
+  },
+  {
+    "type": "font",
+    "preview": {
+      "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/editor/fonts/metal-mania.svg"
+    },
+    "key": "Metal Mania",
+    "value": [
+      {
+        "id": "19684908-a980-46cc-9e0f-83b16883f257",
+        "type": "text",
+        "time": 0,
+        "duration": 10,
+        "y": "50%",
+        "fill_color": "rgba(192,192,192,1)",
+        "text": "Metal Mania",
+        "font_family": "Metal Mania",
+        "font_size": "14 vmin"
+      }
+    ]
+  },
+  {
+    "type": "font",
+    "preview": {
+      "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/editor/fonts/atomic-age.svg"
+    },
+    "key": "Atomic Age",
+    "value": [
+      {
+        "id": "e78e10c2-4ff4-4303-8a8a-4298a47709f9",
+        "type": "text",
+        "time": 0,
+        "duration": 10,
+        "y": "50%",
+        "fill_color": "rgba(0,191,255,1)",
+        "text": "Atomic Age",
+        "font_family": "Atomic Age",
+        "font_size": "14 vmin"
+      }
+    ]
+  },
+  {
+    "type": "font",
+    "preview": {
+      "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/editor/fonts/vt323.svg"
+    },
+    "key": "VT323",
+    "value": [
+      {
+        "id": "5294a8a3-526c-4d2c-b286-097bec288eb9",
+        "type": "text",
+        "time": 0,
+        "duration": 10,
+        "y": "50%",
+        "fill_color": "rgba(255,255,0,1)",
+        "text": "VT323",
+        "font_family": "VT323",
+        "font_size": "14 vmin"
+      }
+    ]
+  },
+  {
+    "type": "font",
+    "preview": {
+      "url": "https://syllaby-assets.sfo3.cdn.digitaloceanspaces.com/editor/fonts/dotgothic16.svg"
+    },
+    "key": "DotGothic16",
+    "value": [
+      {
+        "id": "00879005-71ad-4e47-9a16-97f2ba3d0cdb",
+        "type": "text",
+        "time": 0,
+        "duration": 10,
+        "y": "50%",
+        "fill_color": "rgba(30,144,255,1)",
+        "text": "DotGothic16",
+        "font_family": "DotGothic16",
+        "font_size": "14 vmin"
+      }
+    ]
+  }
+]

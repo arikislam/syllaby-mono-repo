@@ -1,0 +1,84 @@
+{
+  "survey": {
+    "name": "Cancellation Reasoning Form",
+    "is_active": false
+  },
+  "questions": [
+    {
+      "title": "Financial Concerns",
+      "type": "checkbox",
+      "placeholder": null,
+      "rules": [
+        "nullable"
+      ],
+      "options": [
+        "I'm facing budget constraints.",
+        "The subscription cost is outside my budget.",
+        "I found comparable value in a less expensive tool.",
+        "I've transitioned to a free alternative."
+      ],
+      "metadata": {}
+    },
+    {
+      "title": "Content Creation Issues",
+      "type": "checkbox",
+      "placeholder": null,
+      "rules": [
+        "nullable"
+      ],
+      "options": [
+        "The AI-generated content didn't resonate with my preferred voice.",
+        "I had difficulty tailoring content ideas to my specific niche.",
+        "The AI-generated scripts lacked the depth or specificity I needed.",
+        "The AI-powered avatars didn't align with my desired image."
+      ],
+      "metadata": {}
+    },
+    {
+      "title": "Usability & Technical Challenges",
+      "type": "checkbox",
+      "placeholder": null,
+      "rules": [
+        "nullable"
+      ],
+      "options": [
+        "The user interface wasn't intuitive for my content creation process.",
+        "I encountered navigation challenges in the tool.",
+        "I had difficulties with the direct posting feature on social media platforms.",
+        "The video rendering times were longer than I expected.",
+        "The scheduling feature does not fit my expectations or is difficult to use."
+      ],
+      "metadata": {}
+    },
+    {
+      "title": "Functionality & Feature Mismatch",
+      "type": "checkbox",
+      "placeholder": null,
+      "rules": [
+        "nullable"
+      ],
+      "options": [
+        "I was expecting different features based on what was advertised.",
+        "The scheduling feature didn't integrate well with my existing tools.",
+        "The credit system was unclear or didn't suit my usage patterns.",
+        "The avatar feature is different from what I was expecting or hoping for."
+      ],
+      "metadata": {}
+    },
+    {
+      "title": "Personal & External Reasons",
+      "type": "checkbox",
+      "placeholder": null,
+      "rules": [
+        "nullable"
+      ],
+      "options": [
+        "I had to cancel due to unforeseen personal reasons.",
+        "My business strategy has shifted, and the tool no longer aligns.",
+        "I prefer not to specify a particular reason.",
+        "I was just testing the application and its features. I did not intend to subscribe."
+      ],
+      "metadata": {}
+    }
+  ]
+}

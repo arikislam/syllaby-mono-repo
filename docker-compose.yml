@@ -1,0 +1,105 @@
+version: '3.8'
+
+services:
+  mysql:
+    image: mysql:8.0
+    container_name: syllaby-mysql
+    ports:
+      - "3906:3306"
+    environment:
+      - MYSQL_ROOT_PASSWORD=root
+      - MYSQL_DATABASE=syllaby
+      - MYSQL_USER=syllaby
+      - MYSQL_PASSWORD=password
+    volumes:
+      - mysql_data:/var/lib/mysql
+      - ./mysql-init:/docker-entrypoint-initdb.d
+    networks:
+      - syllaby-network
+    restart: unless-stopped
+
+  redis:
+    image: redis:7-alpine
+    container_name: syllaby-redis
+    ports:
+      - "6930:6379"
+    volumes:
+      - redis_data:/data
+    networks:
+      - syllaby-network
+    restart: unless-stopped
+
+  mailhog:
+    image: mailhog/mailhog:latest
+    container_name: syllaby-mailhog
+    ports:
+      - "1062:1025"
+      - "8062:8025"
+    networks:
+      - syllaby-network
+    restart: unless-stopped
+
+  backend:
+    build:
+      context: .
+      dockerfile: dockerfiles/Dockerfile.backend
+    container_name: syllaby-backend
+    ports:
+      - "8880:8000"
+    environment:
+      - APP_ENV=production
+      - APP_DEBUG=false
+      - DB_CONNECTION=mysql
+      - DB_HOST=mysql
+      - DB_PORT=3306
+      - DB_DATABASE=syllaby
+      - DB_USERNAME=syllaby
+      - DB_PASSWORD=password
+      - DB_DATABASE_TESTING=syllaby_testing
+      - DB_DATABASE_PULSE=syllaby_pulse
+      - REDIS_HOST=redis
+      - REDIS_PORT=6379
+      - MAIL_MAILER=smtp
+      - MAIL_HOST=mailhog
+      - MAIL_PORT=1025
+      - FRONTEND_URL=http://localhost:3330
+    volumes:
+      - ./backend:/var/www/html
+    networks:
+      - syllaby-network
+    depends_on:
+      - mysql
+      - redis
+      - mailhog
+    restart: unless-stopped
+
+  frontend:
+    build:
+      context: .
+      dockerfile: dockerfiles/Dockerfile.frontend
+    container_name: syllaby-frontend
+    ports:
+      - "3330:3000"
+    environment:
+      - REACT_APP_API_URL=http://localhost:8880
+      - NODE_ENV=production
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
+    networks:
+      - syllaby-network
+    depends_on:
+      - backend
+      - mysql
+      - redis
+    restart: unless-stopped
+
+networks:
+  syllaby-network:
+    driver: bridge
+
+volumes:
+  backend_node_modules:
+  frontend_node_modules:
+  mysql_data:
+  redis_data:

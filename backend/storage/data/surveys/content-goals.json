@@ -1,0 +1,26 @@
+{
+    "survey": {
+        "name": "Content Creation Goals Form"
+    },
+    "questions": [
+        {
+            "title": "What is your content creation goal?",
+            "type": "checkbox",
+            "placeholder": null,
+            "rules": [
+                "nullable"
+            ],
+            "options": [
+                "Affiliation Marketing",
+                "Educational & Tips",
+                "Product Reviews",
+                "Entertainment & Fun",
+                "How-To & Tutorials",
+                "Unboxings",
+                "Behind The Scenes",
+                "Motivation & Inspiration"
+            ],
+            "metadata": {}
+        }
+    ]
+}

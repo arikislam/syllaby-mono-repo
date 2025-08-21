@@ -1,0 +1,145 @@
+{
+    "survey": {
+        "name": "Business Intake Form",
+        "is_active": true
+    },
+    "questions": [
+        {
+            "title": "What best describes your role?",
+            "type": "select",
+            "placeholder": "Select your role",
+            "rules": [
+                "nullable",
+                "required"
+            ],
+            "options": [
+                "C-Level Executive",
+                "SVP/VP/ Director",
+                "Manager",
+                "Content Creator/Influencer",
+                "Business Owner",
+                "Marketing Executive"
+            ],
+            "metadata": {
+                "step": 1
+            }
+        },
+        {
+            "title": "To which Industry you belong to?",
+            "type": "select",
+            "placeholder": "Select an industry",
+            "rules": [
+                "nullable",
+                "required"
+            ],
+            "options": [
+                "Legal",
+                "Energy",
+                "Retail ",
+                "Defense",
+                "Finance",
+                "Aerospace",
+                "Education",
+                "Consulting",
+                "Government",
+                "Healthcare",
+                "Non-Profit",
+                "Technology",
+                "Agriculture",
+                "Hospitality",
+                "Real Estate",
+                "Construction",
+                "Manufacturing",
+                "Transportation",
+                "Pharmaceuticals",
+                "Media and Entertainment"
+            ],
+            "metadata": {
+                "step": 1
+            }
+        },
+        {
+            "title": "Do you use this product as An Individual or Agency?",
+            "type": "select",
+            "placeholder": "Select an option",
+            "rules": [
+                "nullable"
+            ],
+            "options": [
+                "Individual",
+                "Agency"
+            ],
+            "metadata": {
+                "step": 1
+            }
+        },
+        {
+            "title": "Company Size",
+            "type": "select",
+            "placeholder": "Select an option",
+            "rules": [
+                "nullable"
+            ],
+            "options": [
+                "1",
+                "<100",
+                "500-1000",
+                "1000-10000"
+            ],
+            "metadata": {
+                "step": 1
+            }
+        },
+        {
+            "title": "What is the type of the content that you frequently post in social media",
+            "type": "checkbox",
+            "placeholder": null,
+            "rules": [
+                "nullable"
+            ],
+            "options": [
+                "Text based posts (Articles, Blogs)",
+                "Short Video (YouTube/ Instagram/ Tiktok)",
+                "Long form videos",
+                "User generated content"
+            ],
+            "metadata": {
+                "step": 2
+            }
+        },
+        {
+            "title": "What is the duration of the content that you frequently post in social media?",
+            "type": "checkbox",
+            "placeholder": null,
+            "rules": [
+                "nullable"
+            ],
+            "options": [
+                "30 Seconds",
+                "60 Seconds",
+                "90 Seconds",
+                "120 Seconds"
+            ],
+            "metadata": {
+                "step": 3
+            }
+        },
+        {
+            "title": "Which product interests you the most in Syllaby?",
+            "type": "checkbox",
+            "placeholder": null,
+            "rules": [
+                "nullable"
+            ],
+            "options": [
+                "Digital Twin",
+                "Plan, Schedule and Publish",
+                "Article Generator",
+                "Avatar Generator"
+            ],
+            "metadata": {
+                "step": 4
+            }
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "survey": {
+        "name": "User Experience",
+        "is_active": true
+    },
+    "questions": [
+        {
+            "title": "What’s your role?",
+            "type": "select",
+            "placeholder": "Select your role",
+            "rules": [
+                "nullable"
+            ],
+            "options": [
+                "Operations Manager",
+                "CEO (Chief Executive Officer)",
+                "Human Resources Manager",
+                "COO (Chief Operating Officer)",
+                "Finance Manager",
+                "CFO (Chief Financial Officer)",
+                "Sales Manager",
+                "CMO (Chief Marketing Officer)",
+                "Marketing Manager",
+                "CIO (Chief Information Officer)",
+                "Customer Service Manager",
+                "CCO (Chief Customer Officer)",
+                "Supply Chain Manager",
+                "CSCO (Chief Supply Chain Officer)",
+                "IT Manager",
+                "CTO (Chief Technology Officer)",
+                "Quality Control Manager",
+                "CSO (Chief Sustainability Officer)",
+                "Production Manager",
+                "CPO (Chief Production Officer)"
+            ]
+        },
+        {
+            "title": "Company/Organization name",
+            "type": "text",
+            "placeholder": "Enter Organization name",
+            "rules": [
+                "nullable"
+            ],
+            "options": null
+        },
+        {
+            "title": "Which industry you are associated with?",
+            "type": "select",
+            "placeholder": "Select Industry",
+            "rules": [
+                "nullable"
+            ],
+            "options": [
+                "Healthcare",
+                "Technology",
+                "Finance",
+                "Retail",
+                "Manufacturing",
+                "Hospitality",
+                "Transportation",
+                "Education",
+                "Construction",
+                "Energy",
+                "Agriculture",
+                "Real Estate",
+                "Media and Entertainment",
+                "Government",
+                "Non-Profit",
+                "Legal",
+                "Consulting",
+                "Aerospace",
+                "Defense",
+                "Pharmaceuticals"
+            ]
+        },
+        {
+            "title": "Which keywords describes your profession best?",
+            "type": "tags",
+            "placeholder": "E.g. marketer, designer, influencer",
+            "rules": [
+                "nullable"
+            ],
+            "options": null
+        }
+    ]
+}

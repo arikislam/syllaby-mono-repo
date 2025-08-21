@@ -1,0 +1,61 @@
+FROM php:8.3-fpm-alpine
+
+# Install system dependencies
+RUN apk add --no-cache \
+    git \
+    curl \
+    libpng-dev \
+    libxml2-dev \
+    zip \
+    unzip \
+    mysql-client \
+    nginx \
+    supervisor \
+    oniguruma-dev \
+    freetype-dev \
+    libjpeg-turbo-dev \
+    libzip-dev
+
+# Configure and install PHP extensions
+RUN docker-php-ext-configure gd --with-freetype --with-jpeg \
+    && docker-php-ext-install pdo pdo_mysql mbstring exif pcntl bcmath gd zip
+
+# Install Redis extension
+RUN apk add --no-cache --virtual .build-deps $PHPIZE_DEPS linux-headers \
+    && pecl install redis \
+    && pecl install xdebug \
+    && docker-php-ext-enable redis xdebug \
+    && apk del .build-deps
+
+# Install Composer
+COPY --from=composer:latest /usr/bin/composer /usr/bin/composer
+
+# Set working directory
+WORKDIR /var/www/html
+
+# Copy composer files
+COPY backend/composer*.json ./
+
+# Install dependencies (with dev packages)
+RUN composer install
+
+# Copy application
+COPY backend/ .
+
+# Set permissions
+RUN chown -R www-data:www-data /var/www/html \
+    && chmod -R 755 /var/www/html/storage
+
+# Copy nginx config
+COPY dockerfiles/nginx-laravel.conf /etc/nginx/nginx.conf
+
+# Copy supervisor config
+COPY dockerfiles/supervisord.conf /etc/supervisor/conf.d/supervisord.conf
+
+# Copy Xdebug config
+COPY dockerfiles/xdebug.ini /usr/local/etc/php/conf.d/xdebug.ini
+
+EXPOSE 8000
+EXPOSE 9003
+
+CMD ["/usr/bin/supervisord", "-c", "/etc/supervisor/conf.d/supervisord.conf"]
